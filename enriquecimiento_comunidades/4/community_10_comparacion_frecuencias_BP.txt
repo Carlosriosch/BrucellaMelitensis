@@ -1,0 +1,176 @@
+GO:0008150	"biological_process"	19	49	1827	43199
+GO:0008150	"biological_process"	19	273	1827	43199
+GO:0009987	"cellular process"	17	49	1515	43199
+GO:0009987	"cellular process"	17	273	1515	43199
+GO:0044699	"single-organism process"	13	49	1081	43199
+GO:0044699	"single-organism process"	13	273	1081	43199
+GO:0008152	"metabolic process"	13	49	1279	43199
+GO:0008152	"metabolic process"	13	273	1279	43199
+GO:0044763	"single-organism cellular process"	12	49	942	43199
+GO:0044763	"single-organism cellular process"	12	273	942	43199
+GO:0044237	"cellular metabolic process"	12	49	1131	43199
+GO:0044237	"cellular metabolic process"	12	273	1131	43199
+GO:0044710	"single-organism metabolic process"	7	49	657	43199
+GO:0044710	"single-organism metabolic process"	7	273	657	43199
+GO:0006790	"sulfur compound metabolic process"	7	49	48	43199
+GO:0006790	"sulfur compound metabolic process"	7	273	48	43199
+GO:1902578	"single-organism localization"	6	49	245	43199
+GO:1902578	"single-organism localization"	6	273	245	43199
+GO:0051234	"establishment of localization"	6	49	268	43199
+GO:0051234	"establishment of localization"	6	273	268	43199
+GO:0051179	"localization"	6	49	282	43199
+GO:0051179	"localization"	6	273	282	43199
+GO:0044765	"single-organism transport"	6	49	243	43199
+GO:0044765	"single-organism transport"	6	273	243	43199
+GO:0006810	"transport"	6	49	266	43199
+GO:0006810	"transport"	6	273	266	43199
+GO:0055085	"transmembrane transport"	5	49	138	43199
+GO:0055085	"transmembrane transport"	5	273	138	43199
+GO:0071704	"organic substance metabolic process"	5	49	1181	43199
+GO:0071704	"organic substance metabolic process"	5	273	1181	43199
+GO:0044249	"cellular biosynthetic process"	5	49	714	43199
+GO:0044249	"cellular biosynthetic process"	5	273	714	43199
+GO:0009058	"biosynthetic process"	5	49	758	43199
+GO:0009058	"biosynthetic process"	5	273	758	43199
+GO:0044238	"primary metabolic process"	4	49	985	43199
+GO:0044238	"primary metabolic process"	4	273	985	43199
+GO:0071702	"organic substance transport"	3	49	115	43199
+GO:0071702	"organic substance transport"	3	273	115	43199
+GO:0045184	"establishment of protein localization"	3	49	51	43199
+GO:0045184	"establishment of protein localization"	3	273	51	43199
+GO:0033036	"macromolecule localization"	3	49	53	43199
+GO:0033036	"macromolecule localization"	3	273	53	43199
+GO:0015031	"protein transport"	3	49	49	43199
+GO:0015031	"protein transport"	3	273	49	43199
+GO:0008104	"protein localization"	3	49	51	43199
+GO:0008104	"protein localization"	3	273	51	43199
+GO:1901615	"organic hydroxy compound metabolic process"	3	49	31	43199
+GO:1901615	"organic hydroxy compound metabolic process"	3	273	31	43199
+GO:0044723	"single-organism carbohydrate metabolic process"	3	49	67	43199
+GO:0044723	"single-organism carbohydrate metabolic process"	3	273	67	43199
+GO:0044281	"small molecule metabolic process"	3	49	501	43199
+GO:0044281	"small molecule metabolic process"	3	273	501	43199
+GO:0044262	"cellular carbohydrate metabolic process"	3	49	19	43199
+GO:0044262	"cellular carbohydrate metabolic process"	3	273	19	43199
+GO:0019751	"polyol metabolic process"	3	49	11	43199
+GO:0019751	"polyol metabolic process"	3	273	11	43199
+GO:0019400	"alditol metabolic process"	3	49	8	43199
+GO:0019400	"alditol metabolic process"	3	273	8	43199
+GO:0006066	"alcohol metabolic process"	3	49	17	43199
+GO:0006066	"alcohol metabolic process"	3	273	17	43199
+GO:0005975	"carbohydrate metabolic process"	3	49	99	43199
+GO:0005975	"carbohydrate metabolic process"	3	273	99	43199
+GO:0006071	"glycerol metabolic process"	3	49	7	43199
+GO:0006071	"glycerol metabolic process"	3	273	7	43199
+GO:0000103	"sulfate assimilation"	3	49	3	43199
+GO:0000103	"sulfate assimilation"	3	273	3	43199
+GO:0070813	"hydrogen sulfide metabolic process"	3	49	3	43199
+GO:0070813	"hydrogen sulfide metabolic process"	3	273	3	43199
+GO:0044272	"sulfur compound biosynthetic process"	3	49	34	43199
+GO:0044272	"sulfur compound biosynthetic process"	3	273	34	43199
+GO:0070814	"hydrogen sulfide biosynthetic process"	3	49	3	43199
+GO:0070814	"hydrogen sulfide biosynthetic process"	3	273	3	43199
+GO:1902582	"single-organism intracellular transport"	2	49	13	43199
+GO:1902582	"single-organism intracellular transport"	2	273	13	43199
+GO:0071806	"protein transmembrane transport"	2	49	14	43199
+GO:0071806	"protein transmembrane transport"	2	273	14	43199
+GO:0070727	"cellular macromolecule localization"	2	49	15	43199
+GO:0070727	"cellular macromolecule localization"	2	273	15	43199
+GO:0051649	"establishment of localization in cell"	2	49	24	43199
+GO:0051649	"establishment of localization in cell"	2	273	24	43199
+GO:0051641	"cellular localization"	2	49	26	43199
+GO:0051641	"cellular localization"	2	273	26	43199
+GO:0046907	"intracellular transport"	2	49	13	43199
+GO:0046907	"intracellular transport"	2	273	13	43199
+GO:0034613	"cellular protein localization"	2	49	15	43199
+GO:0034613	"cellular protein localization"	2	273	15	43199
+GO:0006886	"intracellular protein transport"	2	49	13	43199
+GO:0006886	"intracellular protein transport"	2	273	13	43199
+GO:1901576	"organic substance biosynthetic process"	2	49	726	43199
+GO:1901576	"organic substance biosynthetic process"	2	273	726	43199
+GO:0044711	"single-organism biosynthetic process"	2	49	352	43199
+GO:0044711	"single-organism biosynthetic process"	2	273	352	43199
+GO:0006807	"nitrogen compound metabolic process"	2	49	924	43199
+GO:0006807	"nitrogen compound metabolic process"	2	273	924	43199
+GO:0019419	"sulfate reduction"	2	49	2	43199
+GO:0019419	"sulfate reduction"	2	273	2	43199
+GO:0055114	"oxidation-reduction process"	2	49	45	43199
+GO:0055114	"oxidation-reduction process"	2	273	45	43199
+GO:0043952	"protein transport by the Sec complex"	1	49	4	43199
+GO:0043952	"protein transport by the Sec complex"	1	273	4	43199
+GO:0006605	"protein targeting"	1	49	8	43199
+GO:0006605	"protein targeting"	1	273	8	43199
+GO:0065002	"intracellular protein transmembrane transport"	1	49	5	43199
+GO:0065002	"intracellular protein transmembrane transport"	1	273	5	43199
+GO:0090407	"organophosphate biosynthetic process"	1	49	110	43199
+GO:0090407	"organophosphate biosynthetic process"	1	273	110	43199
+GO:0046486	"glycerolipid metabolic process"	1	49	11	43199
+GO:0046486	"glycerolipid metabolic process"	1	273	11	43199
+GO:0046474	"glycerophospholipid biosynthetic process"	1	49	4	43199
+GO:0046474	"glycerophospholipid biosynthetic process"	1	273	4	43199
+GO:0046341	"CDP-diacylglycerol metabolic process"	1	49	1	43199
+GO:0046341	"CDP-diacylglycerol metabolic process"	1	273	1	43199
+GO:0045017	"glycerolipid biosynthetic process"	1	49	4	43199
+GO:0045017	"glycerolipid biosynthetic process"	1	273	4	43199
+GO:0044255	"cellular lipid metabolic process"	1	49	62	43199
+GO:0044255	"cellular lipid metabolic process"	1	273	62	43199
+GO:0019637	"organophosphate metabolic process"	1	49	160	43199
+GO:0019637	"organophosphate metabolic process"	1	273	160	43199
+GO:0008654	"phospholipid biosynthetic process"	1	49	24	43199
+GO:0008654	"phospholipid biosynthetic process"	1	273	24	43199
+GO:0008610	"lipid biosynthetic process"	1	49	52	43199
+GO:0008610	"lipid biosynthetic process"	1	273	52	43199
+GO:0006796	"phosphate-containing compound metabolic process"	1	49	163	43199
+GO:0006796	"phosphate-containing compound metabolic process"	1	273	163	43199
+GO:0006793	"phosphorus metabolic process"	1	49	175	43199
+GO:0006793	"phosphorus metabolic process"	1	273	175	43199
+GO:0006650	"glycerophospholipid metabolic process"	1	49	11	43199
+GO:0006650	"glycerophospholipid metabolic process"	1	273	11	43199
+GO:0006644	"phospholipid metabolic process"	1	49	31	43199
+GO:0006644	"phospholipid metabolic process"	1	273	31	43199
+GO:0006629	"lipid metabolic process"	1	49	70	43199
+GO:0006629	"lipid metabolic process"	1	273	70	43199
+GO:0016024	"CDP-diacylglycerol biosynthetic process"	1	49	1	43199
+GO:0016024	"CDP-diacylglycerol biosynthetic process"	1	273	1	43199
+GO:1901566	"organonitrogen compound biosynthetic process"	1	49	392	43199
+GO:1901566	"organonitrogen compound biosynthetic process"	1	273	392	43199
+GO:1901564	"organonitrogen compound metabolic process"	1	49	509	43199
+GO:1901564	"organonitrogen compound metabolic process"	1	273	509	43199
+GO:1901362	"organic cyclic compound biosynthetic process"	1	49	408	43199
+GO:1901362	"organic cyclic compound biosynthetic process"	1	273	408	43199
+GO:1901360	"organic cyclic compound metabolic process"	1	49	685	43199
+GO:1901360	"organic cyclic compound metabolic process"	1	273	685	43199
+GO:0051188	"cofactor biosynthetic process"	1	49	71	43199
+GO:0051188	"cofactor biosynthetic process"	1	273	71	43199
+GO:0051186	"cofactor metabolic process"	1	49	105	43199
+GO:0051186	"cofactor metabolic process"	1	273	105	43199
+GO:0046483	"heterocycle metabolic process"	1	49	668	43199
+GO:0046483	"heterocycle metabolic process"	1	273	668	43199
+GO:0046148	"pigment biosynthetic process"	1	49	15	43199
+GO:0046148	"pigment biosynthetic process"	1	273	15	43199
+GO:0044271	"cellular nitrogen compound biosynthetic process"	1	49	490	43199
+GO:0044271	"cellular nitrogen compound biosynthetic process"	1	273	490	43199
+GO:0042440	"pigment metabolic process"	1	49	15	43199
+GO:0042440	"pigment metabolic process"	1	273	15	43199
+GO:0042168	"heme metabolic process"	1	49	12	43199
+GO:0042168	"heme metabolic process"	1	273	12	43199
+GO:0034641	"cellular nitrogen compound metabolic process"	1	49	755	43199
+GO:0034641	"cellular nitrogen compound metabolic process"	1	273	755	43199
+GO:0033014	"tetrapyrrole biosynthetic process"	1	49	38	43199
+GO:0033014	"tetrapyrrole biosynthetic process"	1	273	38	43199
+GO:0033013	"tetrapyrrole metabolic process"	1	49	38	43199
+GO:0033013	"tetrapyrrole metabolic process"	1	273	38	43199
+GO:0019438	"aromatic compound biosynthetic process"	1	49	379	43199
+GO:0019438	"aromatic compound biosynthetic process"	1	273	379	43199
+GO:0018130	"heterocycle biosynthetic process"	1	49	398	43199
+GO:0018130	"heterocycle biosynthetic process"	1	273	398	43199
+GO:0006779	"porphyrin-containing compound biosynthetic process"	1	49	14	43199
+GO:0006779	"porphyrin-containing compound biosynthetic process"	1	273	14	43199
+GO:0006778	"porphyrin-containing compound metabolic process"	1	49	14	43199
+GO:0006778	"porphyrin-containing compound metabolic process"	1	273	14	43199
+GO:0006725	"cellular aromatic compound metabolic process"	1	49	665	43199
+GO:0006725	"cellular aromatic compound metabolic process"	1	273	665	43199
+GO:0006783	"heme biosynthetic process"	1	49	12	43199
+GO:0006783	"heme biosynthetic process"	1	273	12	43199
+GO:0019379	"sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)"	1	49	1	43199
+GO:0019379	"sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)"	1	273	1	43199

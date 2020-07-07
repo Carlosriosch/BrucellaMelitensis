@@ -1,0 +1,48 @@
+GO:0005575	"cellular_component"	29	6	1525	10194
+GO:0005575	"cellular_component"	29	203	1525	10194
+GO:0016020	"membrane"	26	6	990	10194
+GO:0016020	"membrane"	26	203	990	10194
+GO:0044425	"membrane part"	22	6	695	10194
+GO:0044425	"membrane part"	22	203	695	10194
+GO:0031224	"intrinsic component of membrane"	21	6	672	10194
+GO:0031224	"intrinsic component of membrane"	21	203	672	10194
+GO:0016021	"integral component of membrane"	21	6	671	10194
+GO:0016021	"integral component of membrane"	21	203	671	10194
+GO:0044464	"cell part"	11	6	863	10194
+GO:0044464	"cell part"	11	203	863	10194
+GO:0005623	"cell"	11	6	883	10194
+GO:0005623	"cell"	11	203	883	10194
+GO:0071944	"cell periphery"	8	6	341	10194
+GO:0071944	"cell periphery"	8	203	341	10194
+GO:0005886	"plasma membrane"	8	6	324	10194
+GO:0005886	"plasma membrane"	8	203	324	10194
+GO:0098797	"plasma membrane protein complex"	4	6	50	10194
+GO:0098797	"plasma membrane protein complex"	4	203	50	10194
+GO:0098796	"membrane protein complex"	4	6	66	10194
+GO:0098796	"membrane protein complex"	4	203	66	10194
+GO:0044459	"plasma membrane part"	4	6	80	10194
+GO:0044459	"plasma membrane part"	4	203	80	10194
+GO:0043234	"protein complex"	4	6	110	10194
+GO:0043234	"protein complex"	4	203	110	10194
+GO:0032991	"macromolecular complex"	4	6	172	10194
+GO:0032991	"macromolecular complex"	4	203	172	10194
+GO:0005622	"intracellular"	3	6	479	10194
+GO:0005622	"intracellular"	3	203	479	10194
+GO:1990351	"transporter complex"	3	6	47	10194
+GO:1990351	"transporter complex"	3	203	47	10194
+GO:1904949	"ATPase complex"	3	6	46	10194
+GO:1904949	"ATPase complex"	3	203	46	10194
+GO:1902495	"transmembrane transporter complex"	3	6	47	10194
+GO:1902495	"transmembrane transporter complex"	3	203	47	10194
+GO:1902494	"catalytic complex"	3	6	78	10194
+GO:1902494	"catalytic complex"	3	203	78	10194
+GO:0098533	"ATPase dependent transmembrane transport complex"	3	6	46	10194
+GO:0098533	"ATPase dependent transmembrane transport complex"	3	203	46	10194
+GO:0043190	"ATP-binding cassette (ABC) transporter complex"	3	6	46	10194
+GO:0043190	"ATP-binding cassette (ABC) transporter complex"	3	203	46	10194
+GO:0044424	"intracellular part"	2	6	413	10194
+GO:0044424	"intracellular part"	2	203	413	10194
+GO:0005737	"cytoplasm"	2	6	359	10194
+GO:0005737	"cytoplasm"	2	203	359	10194
+GO:0033573	"high-affinity iron permease complex"	1	6	1	10194
+GO:0033573	"high-affinity iron permease complex"	1	203	1	10194

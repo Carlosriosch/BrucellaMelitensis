@@ -1,0 +1,3 @@
+codigo		p-value		significado
+GO:0044255	0.03683739	"cellular lipid metabolic process"
+GO:0006629	0.03109105	"lipid metabolic process"

@@ -1,0 +1,164 @@
+GO:0003674	"molecular_function"	36	5	3552	28221
+GO:0003674	"molecular_function"	36	477	3552	28221
+GO:0003824	"catalytic activity"	19	5	1758	28221
+GO:0003824	"catalytic activity"	19	477	1758	28221
+GO:0005488	"binding"	15	5	1404	28221
+GO:0005488	"binding"	15	477	1404	28221
+GO:0043167	"ion binding"	14	5	766	28221
+GO:0043167	"ion binding"	14	477	766	28221
+GO:1901363	"heterocyclic compound binding"	11	5	964	28221
+GO:1901363	"heterocyclic compound binding"	11	477	964	28221
+GO:1901265	"nucleoside phosphate binding"	11	5	477	28221
+GO:1901265	"nucleoside phosphate binding"	11	477	477	28221
+GO:0097367	"carbohydrate derivative binding"	11	5	375	28221
+GO:0097367	"carbohydrate derivative binding"	11	477	375	28221
+GO:0097159	"organic cyclic compound binding"	11	5	964	28221
+GO:0097159	"organic cyclic compound binding"	11	477	964	28221
+GO:0043168	"anion binding"	11	5	468	28221
+GO:0043168	"anion binding"	11	477	468	28221
+GO:0036094	"small molecule binding"	11	5	502	28221
+GO:0036094	"small molecule binding"	11	477	502	28221
+GO:0035639	"purine ribonucleoside triphosphate binding"	11	5	348	28221
+GO:0035639	"purine ribonucleoside triphosphate binding"	11	477	348	28221
+GO:0032555	"purine ribonucleotide binding"	11	5	350	28221
+GO:0032555	"purine ribonucleotide binding"	11	477	350	28221
+GO:0032553	"ribonucleotide binding"	11	5	363	28221
+GO:0032553	"ribonucleotide binding"	11	477	363	28221
+GO:0032550	"purine ribonucleoside binding"	11	5	350	28221
+GO:0032550	"purine ribonucleoside binding"	11	477	350	28221
+GO:0032549	"ribonucleoside binding"	11	5	351	28221
+GO:0032549	"ribonucleoside binding"	11	477	351	28221
+GO:0017076	"purine nucleotide binding"	11	5	351	28221
+GO:0017076	"purine nucleotide binding"	11	477	351	28221
+GO:0001883	"purine nucleoside binding"	11	5	350	28221
+GO:0001883	"purine nucleoside binding"	11	477	350	28221
+GO:0001882	"nucleoside binding"	11	5	351	28221
+GO:0001882	"nucleoside binding"	11	477	351	28221
+GO:0000166	"nucleotide binding"	11	5	477	28221
+GO:0000166	"nucleotide binding"	11	477	477	28221
+GO:0032559	"adenyl ribonucleotide binding"	10	5	321	28221
+GO:0032559	"adenyl ribonucleotide binding"	10	477	321	28221
+GO:0030554	"adenyl nucleotide binding"	10	5	322	28221
+GO:0030554	"adenyl nucleotide binding"	10	477	322	28221
+GO:0005524	"ATP binding"	10	5	319	28221
+GO:0005524	"ATP binding"	10	477	319	28221
+GO:0022857	"transmembrane transporter activity"	9	5	218	28221
+GO:0022857	"transmembrane transporter activity"	9	477	218	28221
+GO:0005215	"transporter activity"	9	5	249	28221
+GO:0005215	"transporter activity"	9	477	249	28221
+GO:0016818	"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"	8	5	209	28221
+GO:0016818	"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"	8	477	209	28221
+GO:0016817	"hydrolase activity, acting on acid anhydrides"	8	5	209	28221
+GO:0016817	"hydrolase activity, acting on acid anhydrides"	8	477	209	28221
+GO:0016787	"hydrolase activity"	8	5	547	28221
+GO:0016787	"hydrolase activity"	8	477	547	28221
+GO:0016462	"pyrophosphatase activity"	8	5	208	28221
+GO:0016462	"pyrophosphatase activity"	8	477	208	28221
+GO:0017111	"nucleoside-triphosphatase activity"	8	5	194	28221
+GO:0017111	"nucleoside-triphosphatase activity"	8	477	194	28221
+GO:0043492	"ATPase activity, coupled to movement of substances"	7	5	54	28221
+GO:0043492	"ATPase activity, coupled to movement of substances"	7	477	54	28221
+GO:0022804	"active transmembrane transporter activity"	7	5	73	28221
+GO:0022804	"active transmembrane transporter activity"	7	477	73	28221
+GO:0016820	"hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances"	7	5	54	28221
+GO:0016820	"hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances"	7	477	54	28221
+GO:0015405	"P-P-bond-hydrolysis-driven transmembrane transporter activity"	7	5	59	28221
+GO:0015405	"P-P-bond-hydrolysis-driven transmembrane transporter activity"	7	477	59	28221
+GO:0015399	"primary active transmembrane transporter activity"	7	5	59	28221
+GO:0015399	"primary active transmembrane transporter activity"	7	477	59	28221
+GO:0016887	"ATPase activity"	7	5	162	28221
+GO:0016887	"ATPase activity"	7	477	162	28221
+GO:0042623	"ATPase activity, coupled"	7	5	69	28221
+GO:0042623	"ATPase activity, coupled"	7	477	69	28221
+GO:0042626	"ATPase activity, coupled to transmembrane movement of substances"	7	5	54	28221
+GO:0042626	"ATPase activity, coupled to transmembrane movement of substances"	7	477	54	28221
+GO:0016772	"transferase activity, transferring phosphorus-containing groups"	7	5	165	28221
+GO:0016772	"transferase activity, transferring phosphorus-containing groups"	7	477	165	28221
+GO:0016740	"transferase activity"	7	5	493	28221
+GO:0016740	"transferase activity"	7	477	493	28221
+GO:0016773	"phosphotransferase activity, alcohol group as acceptor"	4	5	64	28221
+GO:0016773	"phosphotransferase activity, alcohol group as acceptor"	4	477	64	28221
+GO:0016301	"kinase activity"	4	5	96	28221
+GO:0016301	"kinase activity"	4	477	96	28221
+GO:0022892	"substrate-specific transporter activity"	3	5	116	28221
+GO:0022892	"substrate-specific transporter activity"	3	477	116	28221
+GO:0022891	"substrate-specific transmembrane transporter activity"	3	5	111	28221
+GO:0022891	"substrate-specific transmembrane transporter activity"	3	477	111	28221
+GO:0016491	"oxidoreductase activity"	3	5	385	28221
+GO:0016491	"oxidoreductase activity"	3	477	385	28221
+GO:0043169	"cation binding"	3	5	305	28221
+GO:0043169	"cation binding"	3	477	305	28221
+GO:0046872	"metal ion binding"	3	5	297	28221
+GO:0046872	"metal ion binding"	3	477	297	28221
+GO:0004371	"glycerone kinase activity"	3	5	4	28221
+GO:0004371	"glycerone kinase activity"	3	477	4	28221
+GO:0016779	"nucleotidyltransferase activity"	3	5	44	28221
+GO:0016779	"nucleotidyltransferase activity"	3	477	44	28221
+GO:0015075	"ion transmembrane transporter activity"	2	5	89	28221
+GO:0015075	"ion transmembrane transporter activity"	2	477	89	28221
+GO:0008324	"cation transmembrane transporter activity"	2	5	55	28221
+GO:0008324	"cation transmembrane transporter activity"	2	477	55	28221
+GO:0046914	"transition metal ion binding"	2	5	92	28221
+GO:0046914	"transition metal ion binding"	2	477	92	28221
+GO:0005507	"copper ion binding"	2	5	9	28221
+GO:0005507	"copper ion binding"	2	477	9	28221
+GO:0070566	"adenylyltransferase activity"	2	5	8	28221
+GO:0070566	"adenylyltransferase activity"	2	477	8	28221
+GO:0004779	"sulfate adenylyltransferase activity"	2	5	2	28221
+GO:0004779	"sulfate adenylyltransferase activity"	2	477	2	28221
+GO:0004781	"sulfate adenylyltransferase (ATP) activity"	2	5	2	28221
+GO:0004781	"sulfate adenylyltransferase (ATP) activity"	2	477	2	28221
+GO:1901476	"carbohydrate transporter activity"	1	5	9	28221
+GO:1901476	"carbohydrate transporter activity"	1	477	9	28221
+GO:0022884	"macromolecule transmembrane transporter activity"	1	5	11	28221
+GO:0022884	"macromolecule transmembrane transporter activity"	1	477	11	28221
+GO:0015160	"beta-glucan transmembrane transporter activity"	1	5	1	28221
+GO:0015160	"beta-glucan transmembrane transporter activity"	1	477	1	28221
+GO:0015159	"polysaccharide transmembrane transporter activity"	1	5	4	28221
+GO:0015159	"polysaccharide transmembrane transporter activity"	1	477	4	28221
+GO:0015144	"carbohydrate transmembrane transporter activity"	1	5	9	28221
+GO:0015144	"carbohydrate transmembrane transporter activity"	1	477	9	28221
+GO:0015441	"beta-glucan-transporting ATPase activity"	1	5	1	28221
+GO:0015441	"beta-glucan-transporting ATPase activity"	1	477	1	28221
+GO:0098809	"nitrite reductase activity"	1	5	1	28221
+GO:0098809	"nitrite reductase activity"	1	477	1	28221
+GO:0016662	"oxidoreductase activity, acting on other nitrogenous compounds as donors, cytochrome as acceptor"	1	5	4	28221
+GO:0016662	"oxidoreductase activity, acting on other nitrogenous compounds as donors, cytochrome as acceptor"	1	477	4	28221
+GO:0016661	"oxidoreductase activity, acting on other nitrogenous compounds as donors"	1	5	11	28221
+GO:0016661	"oxidoreductase activity, acting on other nitrogenous compounds as donors"	1	477	11	28221
+GO:0050421	"nitrite reductase (NO-forming) activity"	1	5	1	28221
+GO:0050421	"nitrite reductase (NO-forming) activity"	1	477	1	28221
+GO:0070567	"cytidylyltransferase activity"	1	5	4	28221
+GO:0070567	"cytidylyltransferase activity"	1	477	4	28221
+GO:0004605	"phosphatidate cytidylyltransferase activity"	1	5	1	28221
+GO:0004605	"phosphatidate cytidylyltransferase activity"	1	477	1	28221
+GO:0016829	"lyase activity"	1	5	134	28221
+GO:0016829	"lyase activity"	1	477	134	28221
+GO:0004325	"ferrochelatase activity"	1	5	2	28221
+GO:0004325	"ferrochelatase activity"	1	477	2	28221
+GO:0046915	"transition metal ion transmembrane transporter activity"	1	5	8	28221
+GO:0046915	"transition metal ion transmembrane transporter activity"	1	477	8	28221
+GO:0022890	"inorganic cation transmembrane transporter activity"	1	5	47	28221
+GO:0022890	"inorganic cation transmembrane transporter activity"	1	477	47	28221
+GO:0046873	"metal ion transmembrane transporter activity"	1	5	17	28221
+GO:0046873	"metal ion transmembrane transporter activity"	1	477	17	28221
+GO:0005381	"iron ion transmembrane transporter activity"	1	5	2	28221
+GO:0005381	"iron ion transmembrane transporter activity"	1	477	2	28221
+GO:0016671	"oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor"	1	5	4	28221
+GO:0016671	"oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor"	1	477	4	28221
+GO:0016667	"oxidoreductase activity, acting on a sulfur group of donors"	1	5	26	28221
+GO:0016667	"oxidoreductase activity, acting on a sulfur group of donors"	1	477	26	28221
+GO:0004604	"phosphoadenylyl-sulfate reductase (thioredoxin) activity"	1	5	1	28221
+GO:0004604	"phosphoadenylyl-sulfate reductase (thioredoxin) activity"	1	477	1	28221
+GO:0030246	"carbohydrate binding"	1	5	9	28221
+GO:0030246	"carbohydrate binding"	1	477	9	28221
+GO:0032561	"guanyl ribonucleotide binding"	1	5	29	28221
+GO:0032561	"guanyl ribonucleotide binding"	1	477	29	28221
+GO:0019001	"guanyl nucleotide binding"	1	5	29	28221
+GO:0019001	"guanyl nucleotide binding"	1	477	29	28221
+GO:0005525	"GTP binding"	1	5	29	28221
+GO:0005525	"GTP binding"	1	477	29	28221
+GO:0003924	"GTPase activity"	1	5	17	28221
+GO:0003924	"GTPase activity"	1	477	17	28221
+GO:0004020	"adenylylsulfate kinase activity"	1	5	1	28221
+GO:0004020	"adenylylsulfate kinase activity"	1	477	1	28221

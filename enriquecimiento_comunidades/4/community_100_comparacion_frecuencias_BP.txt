@@ -1,0 +1,33 @@
+GO:1901576	"organic substance biosynthetic process"	2	49	726	43199
+GO:0071704	"organic substance metabolic process"	2	49	1181	43199
+GO:0044763	"single-organism cellular process"	2	49	942	43199
+GO:0044711	"single-organism biosynthetic process"	2	49	352	43199
+GO:0044710	"single-organism metabolic process"	2	49	657	43199
+GO:0044699	"single-organism process"	2	49	1081	43199
+GO:0044255	"cellular lipid metabolic process"	2	49	62	43199
+GO:0044249	"cellular biosynthetic process"	2	49	714	43199
+GO:0044238	"primary metabolic process"	2	49	985	43199
+GO:0044237	"cellular metabolic process"	2	49	1131	43199
+GO:0009987	"cellular process"	2	49	1515	43199
+GO:0009058	"biosynthetic process"	2	49	758	43199
+GO:0008610	"lipid biosynthetic process"	2	49	52	43199
+GO:0008150	"biological_process"	2	49	1827	43199
+GO:0006629	"lipid metabolic process"	2	49	70	43199
+GO:0008152	"metabolic process"	2	49	1279	43199
+GO:0090407	"organophosphate biosynthetic process"	1	49	110	43199
+GO:0019637	"organophosphate metabolic process"	1	49	160	43199
+GO:0006796	"phosphate-containing compound metabolic process"	1	49	163	43199
+GO:0006793	"phosphorus metabolic process"	1	49	175	43199
+GO:0006644	"phospholipid metabolic process"	1	49	31	43199
+GO:0008654	"phospholipid biosynthetic process"	1	49	24	43199
+GO:0072330	"monocarboxylic acid biosynthetic process"	1	49	21	43199
+GO:0046394	"carboxylic acid biosynthetic process"	1	49	129	43199
+GO:0044283	"small molecule biosynthetic process"	1	49	182	43199
+GO:0044281	"small molecule metabolic process"	1	49	501	43199
+GO:0043436	"oxoacid metabolic process"	1	49	281	43199
+GO:0032787	"monocarboxylic acid metabolic process"	1	49	69	43199
+GO:0019752	"carboxylic acid metabolic process"	1	49	276	43199
+GO:0016053	"organic acid biosynthetic process"	1	49	129	43199
+GO:0006631	"fatty acid metabolic process"	1	49	19	43199
+GO:0006082	"organic acid metabolic process"	1	49	282	43199
+GO:0006633	"fatty acid biosynthetic process"	1	49	15	43199

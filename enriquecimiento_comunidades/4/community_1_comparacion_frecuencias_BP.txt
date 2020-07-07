@@ -1,0 +1,789 @@
+GO:0008150	"biological_process"	50	49	1827	43199
+GO:0008150	"biological_process"	50	273	1827	43199
+GO:0008150	"biological_process"	50	1378	1827	43199
+GO:0009987	"cellular process"	43	49	1515	43199
+GO:0009987	"cellular process"	43	273	1515	43199
+GO:0009987	"cellular process"	43	1378	1515	43199
+GO:0008152	"metabolic process"	42	49	1279	43199
+GO:0008152	"metabolic process"	42	273	1279	43199
+GO:0008152	"metabolic process"	42	1378	1279	43199
+GO:0071704	"organic substance metabolic process"	40	49	1181	43199
+GO:0071704	"organic substance metabolic process"	40	273	1181	43199
+GO:0071704	"organic substance metabolic process"	40	1378	1181	43199
+GO:0044699	"single-organism process"	37	49	1081	43199
+GO:0044699	"single-organism process"	37	273	1081	43199
+GO:0044699	"single-organism process"	37	1378	1081	43199
+GO:0044237	"cellular metabolic process"	37	49	1131	43199
+GO:0044237	"cellular metabolic process"	37	273	1131	43199
+GO:0044237	"cellular metabolic process"	37	1378	1131	43199
+GO:0044238	"primary metabolic process"	35	49	985	43199
+GO:0044238	"primary metabolic process"	35	273	985	43199
+GO:0044238	"primary metabolic process"	35	1378	985	43199
+GO:0044763	"single-organism cellular process"	33	49	942	43199
+GO:0044763	"single-organism cellular process"	33	273	942	43199
+GO:0044763	"single-organism cellular process"	33	1378	942	43199
+GO:0044710	"single-organism metabolic process"	31	49	657	43199
+GO:0044710	"single-organism metabolic process"	31	273	657	43199
+GO:0044710	"single-organism metabolic process"	31	1378	657	43199
+GO:0044281	"small molecule metabolic process"	28	49	501	43199
+GO:0044281	"small molecule metabolic process"	28	273	501	43199
+GO:0044281	"small molecule metabolic process"	28	1378	501	43199
+GO:0006807	"nitrogen compound metabolic process"	26	49	924	43199
+GO:0006807	"nitrogen compound metabolic process"	26	273	924	43199
+GO:0006807	"nitrogen compound metabolic process"	26	1378	924	43199
+GO:0043436	"oxoacid metabolic process"	22	49	281	43199
+GO:0043436	"oxoacid metabolic process"	22	273	281	43199
+GO:0043436	"oxoacid metabolic process"	22	1378	281	43199
+GO:0019752	"carboxylic acid metabolic process"	22	49	276	43199
+GO:0019752	"carboxylic acid metabolic process"	22	273	276	43199
+GO:0019752	"carboxylic acid metabolic process"	22	1378	276	43199
+GO:0006082	"organic acid metabolic process"	22	49	282	43199
+GO:0006082	"organic acid metabolic process"	22	273	282	43199
+GO:0006082	"organic acid metabolic process"	22	1378	282	43199
+GO:0034641	"cellular nitrogen compound metabolic process"	18	49	755	43199
+GO:0034641	"cellular nitrogen compound metabolic process"	18	273	755	43199
+GO:0034641	"cellular nitrogen compound metabolic process"	18	1378	755	43199
+GO:1901576	"organic substance biosynthetic process"	17	49	726	43199
+GO:1901576	"organic substance biosynthetic process"	17	273	726	43199
+GO:1901576	"organic substance biosynthetic process"	17	1378	726	43199
+GO:1901360	"organic cyclic compound metabolic process"	17	49	685	43199
+GO:1901360	"organic cyclic compound metabolic process"	17	273	685	43199
+GO:1901360	"organic cyclic compound metabolic process"	17	1378	685	43199
+GO:0046483	"heterocycle metabolic process"	17	49	668	43199
+GO:0046483	"heterocycle metabolic process"	17	273	668	43199
+GO:0046483	"heterocycle metabolic process"	17	1378	668	43199
+GO:0044249	"cellular biosynthetic process"	17	49	714	43199
+GO:0044249	"cellular biosynthetic process"	17	273	714	43199
+GO:0044249	"cellular biosynthetic process"	17	1378	714	43199
+GO:0009058	"biosynthetic process"	17	49	758	43199
+GO:0009058	"biosynthetic process"	17	273	758	43199
+GO:0009058	"biosynthetic process"	17	1378	758	43199
+GO:0006725	"cellular aromatic compound metabolic process"	17	49	665	43199
+GO:0006725	"cellular aromatic compound metabolic process"	17	273	665	43199
+GO:0006725	"cellular aromatic compound metabolic process"	17	1378	665	43199
+GO:0006139	"nucleobase-containing compound metabolic process"	17	49	550	43199
+GO:0006139	"nucleobase-containing compound metabolic process"	17	273	550	43199
+GO:0006139	"nucleobase-containing compound metabolic process"	17	1378	550	43199
+GO:1901564	"organonitrogen compound metabolic process"	14	49	509	43199
+GO:1901564	"organonitrogen compound metabolic process"	14	273	509	43199
+GO:1901564	"organonitrogen compound metabolic process"	14	1378	509	43199
+GO:0032787	"monocarboxylic acid metabolic process"	11	49	69	43199
+GO:0032787	"monocarboxylic acid metabolic process"	11	273	69	43199
+GO:0032787	"monocarboxylic acid metabolic process"	11	1378	69	43199
+GO:0044271	"cellular nitrogen compound biosynthetic process"	11	49	490	43199
+GO:0044271	"cellular nitrogen compound biosynthetic process"	11	273	490	43199
+GO:0044271	"cellular nitrogen compound biosynthetic process"	11	1378	490	43199
+GO:0006793	"phosphorus metabolic process"	10	49	175	43199
+GO:0006793	"phosphorus metabolic process"	10	273	175	43199
+GO:0006793	"phosphorus metabolic process"	10	1378	175	43199
+GO:1901362	"organic cyclic compound biosynthetic process"	10	49	408	43199
+GO:1901362	"organic cyclic compound biosynthetic process"	10	273	408	43199
+GO:1901362	"organic cyclic compound biosynthetic process"	10	1378	408	43199
+GO:0065007	"biological regulation"	10	49	176	43199
+GO:0065007	"biological regulation"	10	273	176	43199
+GO:0065007	"biological regulation"	10	1378	176	43199
+GO:0050794	"regulation of cellular process"	10	49	161	43199
+GO:0050794	"regulation of cellular process"	10	273	161	43199
+GO:0050794	"regulation of cellular process"	10	1378	161	43199
+GO:0050789	"regulation of biological process"	10	49	167	43199
+GO:0050789	"regulation of biological process"	10	273	167	43199
+GO:0050789	"regulation of biological process"	10	1378	167	43199
+GO:0018130	"heterocycle biosynthetic process"	10	49	398	43199
+GO:0018130	"heterocycle biosynthetic process"	10	273	398	43199
+GO:0018130	"heterocycle biosynthetic process"	10	1378	398	43199
+GO:0044711	"single-organism biosynthetic process"	9	49	352	43199
+GO:0044711	"single-organism biosynthetic process"	9	273	352	43199
+GO:0044711	"single-organism biosynthetic process"	9	1378	352	43199
+GO:0090304	"nucleic acid metabolic process"	9	49	407	43199
+GO:0090304	"nucleic acid metabolic process"	9	273	407	43199
+GO:0090304	"nucleic acid metabolic process"	9	1378	407	43199
+GO:0044260	"cellular macromolecule metabolic process"	9	49	544	43199
+GO:0044260	"cellular macromolecule metabolic process"	9	273	544	43199
+GO:0044260	"cellular macromolecule metabolic process"	9	1378	544	43199
+GO:0043170	"macromolecule metabolic process"	9	49	567	43199
+GO:0043170	"macromolecule metabolic process"	9	273	567	43199
+GO:0043170	"macromolecule metabolic process"	9	1378	567	43199
+GO:0034654	"nucleobase-containing compound biosynthetic process"	9	49	289	43199
+GO:0034654	"nucleobase-containing compound biosynthetic process"	9	273	289	43199
+GO:0034654	"nucleobase-containing compound biosynthetic process"	9	1378	289	43199
+GO:0019438	"aromatic compound biosynthetic process"	9	49	379	43199
+GO:0019438	"aromatic compound biosynthetic process"	9	273	379	43199
+GO:0019438	"aromatic compound biosynthetic process"	9	1378	379	43199
+GO:0016070	"RNA metabolic process"	9	49	284	43199
+GO:0016070	"RNA metabolic process"	9	273	284	43199
+GO:0016070	"RNA metabolic process"	9	1378	284	43199
+GO:0010467	"gene expression"	9	49	353	43199
+GO:0010467	"gene expression"	9	273	353	43199
+GO:0010467	"gene expression"	9	1378	353	43199
+GO:1901575	"organic substance catabolic process"	8	49	91	43199
+GO:1901575	"organic substance catabolic process"	8	273	91	43199
+GO:1901575	"organic substance catabolic process"	8	1378	91	43199
+GO:0055086	"nucleobase-containing small molecule metabolic process"	8	49	132	43199
+GO:0055086	"nucleobase-containing small molecule metabolic process"	8	273	132	43199
+GO:0055086	"nucleobase-containing small molecule metabolic process"	8	1378	132	43199
+GO:0044712	"single-organism catabolic process"	8	49	68	43199
+GO:0044712	"single-organism catabolic process"	8	273	68	43199
+GO:0044712	"single-organism catabolic process"	8	1378	68	43199
+GO:0009056	"catabolic process"	8	49	99	43199
+GO:0009056	"catabolic process"	8	273	99	43199
+GO:0009056	"catabolic process"	8	1378	99	43199
+GO:1901566	"organonitrogen compound biosynthetic process"	8	49	392	43199
+GO:1901566	"organonitrogen compound biosynthetic process"	8	273	392	43199
+GO:1901566	"organonitrogen compound biosynthetic process"	8	1378	392	43199
+GO:0034645	"cellular macromolecule biosynthetic process"	8	49	360	43199
+GO:0034645	"cellular macromolecule biosynthetic process"	8	273	360	43199
+GO:0034645	"cellular macromolecule biosynthetic process"	8	1378	360	43199
+GO:0009059	"macromolecule biosynthetic process"	8	49	365	43199
+GO:0009059	"macromolecule biosynthetic process"	8	273	365	43199
+GO:0009059	"macromolecule biosynthetic process"	8	1378	365	43199
+GO:0006629	"lipid metabolic process"	7	49	70	43199
+GO:0006629	"lipid metabolic process"	7	273	70	43199
+GO:0006629	"lipid metabolic process"	7	1378	70	43199
+GO:0019637	"organophosphate metabolic process"	7	49	160	43199
+GO:0019637	"organophosphate metabolic process"	7	273	160	43199
+GO:0019637	"organophosphate metabolic process"	7	1378	160	43199
+GO:0006796	"phosphate-containing compound metabolic process"	7	49	163	43199
+GO:0006796	"phosphate-containing compound metabolic process"	7	273	163	43199
+GO:0006796	"phosphate-containing compound metabolic process"	7	1378	163	43199
+GO:0006753	"nucleoside phosphate metabolic process"	7	49	101	43199
+GO:0006753	"nucleoside phosphate metabolic process"	7	273	101	43199
+GO:0006753	"nucleoside phosphate metabolic process"	7	1378	101	43199
+GO:0051186	"cofactor metabolic process"	7	49	105	43199
+GO:0051186	"cofactor metabolic process"	7	273	105	43199
+GO:0051186	"cofactor metabolic process"	7	1378	105	43199
+GO:0006732	"coenzyme metabolic process"	7	49	82	43199
+GO:0006732	"coenzyme metabolic process"	7	273	82	43199
+GO:0006732	"coenzyme metabolic process"	7	1378	82	43199
+GO:0006520	"cellular amino acid metabolic process"	7	49	179	43199
+GO:0006520	"cellular amino acid metabolic process"	7	273	179	43199
+GO:0006520	"cellular amino acid metabolic process"	7	1378	179	43199
+GO:2001141	"regulation of RNA biosynthetic process"	7	49	82	43199
+GO:2001141	"regulation of RNA biosynthetic process"	7	273	82	43199
+GO:2001141	"regulation of RNA biosynthetic process"	7	1378	82	43199
+GO:2000112	"regulation of cellular macromolecule biosynthetic process"	7	49	94	43199
+GO:2000112	"regulation of cellular macromolecule biosynthetic process"	7	273	94	43199
+GO:2000112	"regulation of cellular macromolecule biosynthetic process"	7	1378	94	43199
+GO:1903506	"regulation of nucleic acid-templated transcription"	7	49	82	43199
+GO:1903506	"regulation of nucleic acid-templated transcription"	7	273	82	43199
+GO:1903506	"regulation of nucleic acid-templated transcription"	7	1378	82	43199
+GO:0097659	"nucleic acid-templated transcription"	7	49	201	43199
+GO:0097659	"nucleic acid-templated transcription"	7	273	201	43199
+GO:0097659	"nucleic acid-templated transcription"	7	1378	201	43199
+GO:0080090	"regulation of primary metabolic process"	7	49	97	43199
+GO:0080090	"regulation of primary metabolic process"	7	273	97	43199
+GO:0080090	"regulation of primary metabolic process"	7	1378	97	43199
+GO:0060255	"regulation of macromolecule metabolic process"	7	49	96	43199
+GO:0060255	"regulation of macromolecule metabolic process"	7	273	96	43199
+GO:0060255	"regulation of macromolecule metabolic process"	7	1378	96	43199
+GO:0051252	"regulation of RNA metabolic process"	7	49	82	43199
+GO:0051252	"regulation of RNA metabolic process"	7	273	82	43199
+GO:0051252	"regulation of RNA metabolic process"	7	1378	82	43199
+GO:0051171	"regulation of nitrogen compound metabolic process"	7	49	95	43199
+GO:0051171	"regulation of nitrogen compound metabolic process"	7	273	95	43199
+GO:0051171	"regulation of nitrogen compound metabolic process"	7	1378	95	43199
+GO:0032774	"RNA biosynthetic process"	7	49	203	43199
+GO:0032774	"RNA biosynthetic process"	7	273	203	43199
+GO:0032774	"RNA biosynthetic process"	7	1378	203	43199
+GO:0031326	"regulation of cellular biosynthetic process"	7	49	94	43199
+GO:0031326	"regulation of cellular biosynthetic process"	7	273	94	43199
+GO:0031326	"regulation of cellular biosynthetic process"	7	1378	94	43199
+GO:0031323	"regulation of cellular metabolic process"	7	49	96	43199
+GO:0031323	"regulation of cellular metabolic process"	7	273	96	43199
+GO:0031323	"regulation of cellular metabolic process"	7	1378	96	43199
+GO:0019222	"regulation of metabolic process"	7	49	99	43199
+GO:0019222	"regulation of metabolic process"	7	273	99	43199
+GO:0019222	"regulation of metabolic process"	7	1378	99	43199
+GO:0019219	"regulation of nucleobase-containing compound metabolic process"	7	49	84	43199
+GO:0019219	"regulation of nucleobase-containing compound metabolic process"	7	273	84	43199
+GO:0019219	"regulation of nucleobase-containing compound metabolic process"	7	1378	84	43199
+GO:0010556	"regulation of macromolecule biosynthetic process"	7	49	94	43199
+GO:0010556	"regulation of macromolecule biosynthetic process"	7	273	94	43199
+GO:0010556	"regulation of macromolecule biosynthetic process"	7	1378	94	43199
+GO:0010468	"regulation of gene expression"	7	49	93	43199
+GO:0010468	"regulation of gene expression"	7	273	93	43199
+GO:0010468	"regulation of gene expression"	7	1378	93	43199
+GO:0009889	"regulation of biosynthetic process"	7	49	94	43199
+GO:0009889	"regulation of biosynthetic process"	7	273	94	43199
+GO:0009889	"regulation of biosynthetic process"	7	1378	94	43199
+GO:0006351	"transcription, DNA-templated"	7	49	201	43199
+GO:0006351	"transcription, DNA-templated"	7	273	201	43199
+GO:0006351	"transcription, DNA-templated"	7	1378	201	43199
+GO:0006355	"regulation of transcription, DNA-templated"	7	49	82	43199
+GO:0006355	"regulation of transcription, DNA-templated"	7	273	82	43199
+GO:0006355	"regulation of transcription, DNA-templated"	7	1378	82	43199
+GO:0009117	"nucleotide metabolic process"	6	49	99	43199
+GO:0009117	"nucleotide metabolic process"	6	273	99	43199
+GO:0009117	"nucleotide metabolic process"	6	1378	99	43199
+GO:0006090	"pyruvate metabolic process"	6	49	22	43199
+GO:0006090	"pyruvate metabolic process"	6	273	22	43199
+GO:0006090	"pyruvate metabolic process"	6	1378	22	43199
+GO:0006091	"generation of precursor metabolites and energy"	6	49	51	43199
+GO:0006091	"generation of precursor metabolites and energy"	6	273	51	43199
+GO:0006091	"generation of precursor metabolites and energy"	6	1378	51	43199
+GO:0055114	"oxidation-reduction process"	5	49	45	43199
+GO:0055114	"oxidation-reduction process"	5	273	45	43199
+GO:0055114	"oxidation-reduction process"	5	1378	45	43199
+GO:1901605	"alpha-amino acid metabolic process"	5	49	131	43199
+GO:1901605	"alpha-amino acid metabolic process"	5	273	131	43199
+GO:1901605	"alpha-amino acid metabolic process"	5	1378	131	43199
+GO:0044255	"cellular lipid metabolic process"	4	49	62	43199
+GO:0044255	"cellular lipid metabolic process"	4	273	62	43199
+GO:0044255	"cellular lipid metabolic process"	4	1378	62	43199
+GO:0006631	"fatty acid metabolic process"	4	49	19	43199
+GO:0006631	"fatty acid metabolic process"	4	273	19	43199
+GO:0006631	"fatty acid metabolic process"	4	1378	19	43199
+GO:0044248	"cellular catabolic process"	4	49	73	43199
+GO:0044248	"cellular catabolic process"	4	273	73	43199
+GO:0044248	"cellular catabolic process"	4	1378	73	43199
+GO:1901135	"carbohydrate derivative metabolic process"	4	49	177	43199
+GO:1901135	"carbohydrate derivative metabolic process"	4	273	177	43199
+GO:1901135	"carbohydrate derivative metabolic process"	4	1378	177	43199
+GO:0072524	"pyridine-containing compound metabolic process"	4	49	30	43199
+GO:0072524	"pyridine-containing compound metabolic process"	4	273	30	43199
+GO:0072524	"pyridine-containing compound metabolic process"	4	1378	30	43199
+GO:0046496	"nicotinamide nucleotide metabolic process"	4	49	24	43199
+GO:0046496	"nicotinamide nucleotide metabolic process"	4	273	24	43199
+GO:0046496	"nicotinamide nucleotide metabolic process"	4	1378	24	43199
+GO:0019693	"ribose phosphate metabolic process"	4	49	79	43199
+GO:0019693	"ribose phosphate metabolic process"	4	273	79	43199
+GO:0019693	"ribose phosphate metabolic process"	4	1378	79	43199
+GO:0019362	"pyridine nucleotide metabolic process"	4	49	25	43199
+GO:0019362	"pyridine nucleotide metabolic process"	4	273	25	43199
+GO:0019362	"pyridine nucleotide metabolic process"	4	1378	25	43199
+GO:0006733	"oxidoreduction coenzyme metabolic process"	4	49	31	43199
+GO:0006733	"oxidoreduction coenzyme metabolic process"	4	273	31	43199
+GO:0006733	"oxidoreduction coenzyme metabolic process"	4	1378	31	43199
+GO:0006790	"sulfur compound metabolic process"	4	49	48	43199
+GO:0006790	"sulfur compound metabolic process"	4	273	48	43199
+GO:0006790	"sulfur compound metabolic process"	4	1378	48	43199
+GO:0072350	"tricarboxylic acid metabolic process"	4	49	17	43199
+GO:0072350	"tricarboxylic acid metabolic process"	4	273	17	43199
+GO:0072350	"tricarboxylic acid metabolic process"	4	1378	17	43199
+GO:0045333	"cellular respiration"	4	49	35	43199
+GO:0045333	"cellular respiration"	4	273	35	43199
+GO:0045333	"cellular respiration"	4	1378	35	43199
+GO:0015980	"energy derivation by oxidation of organic compounds"	4	49	35	43199
+GO:0015980	"energy derivation by oxidation of organic compounds"	4	273	35	43199
+GO:0015980	"energy derivation by oxidation of organic compounds"	4	1378	35	43199
+GO:0009060	"aerobic respiration"	4	49	26	43199
+GO:0009060	"aerobic respiration"	4	273	26	43199
+GO:0009060	"aerobic respiration"	4	1378	26	43199
+GO:0006101	"citrate metabolic process"	4	49	16	43199
+GO:0006101	"citrate metabolic process"	4	273	16	43199
+GO:0006101	"citrate metabolic process"	4	1378	16	43199
+GO:0006099	"tricarboxylic acid cycle"	4	49	16	43199
+GO:0006099	"tricarboxylic acid cycle"	4	273	16	43199
+GO:0006099	"tricarboxylic acid cycle"	4	1378	16	43199
+GO:1901607	"alpha-amino acid biosynthetic process"	4	49	87	43199
+GO:1901607	"alpha-amino acid biosynthetic process"	4	273	87	43199
+GO:1901607	"alpha-amino acid biosynthetic process"	4	1378	87	43199
+GO:0046394	"carboxylic acid biosynthetic process"	4	49	129	43199
+GO:0046394	"carboxylic acid biosynthetic process"	4	273	129	43199
+GO:0046394	"carboxylic acid biosynthetic process"	4	1378	129	43199
+GO:0044283	"small molecule biosynthetic process"	4	49	182	43199
+GO:0044283	"small molecule biosynthetic process"	4	273	182	43199
+GO:0044283	"small molecule biosynthetic process"	4	1378	182	43199
+GO:0016053	"organic acid biosynthetic process"	4	49	129	43199
+GO:0016053	"organic acid biosynthetic process"	4	273	129	43199
+GO:0016053	"organic acid biosynthetic process"	4	1378	129	43199
+GO:0008652	"cellular amino acid biosynthetic process"	4	49	100	43199
+GO:0008652	"cellular amino acid biosynthetic process"	4	273	100	43199
+GO:0008652	"cellular amino acid biosynthetic process"	4	1378	100	43199
+GO:0016042	"lipid catabolic process"	3	49	4	43199
+GO:0016042	"lipid catabolic process"	3	273	4	43199
+GO:0016042	"lipid catabolic process"	3	1378	4	43199
+GO:0065008	"regulation of biological quality"	3	49	45	43199
+GO:0065008	"regulation of biological quality"	3	273	45	43199
+GO:0065008	"regulation of biological quality"	3	1378	45	43199
+GO:0042592	"homeostatic process"	3	49	26	43199
+GO:0042592	"homeostatic process"	3	273	26	43199
+GO:0042592	"homeostatic process"	3	1378	26	43199
+GO:0019725	"cellular homeostasis"	3	49	23	43199
+GO:0019725	"cellular homeostasis"	3	273	23	43199
+GO:0019725	"cellular homeostasis"	3	1378	23	43199
+GO:0045454	"cell redox homeostasis"	3	49	19	43199
+GO:0045454	"cell redox homeostasis"	3	273	19	43199
+GO:0045454	"cell redox homeostasis"	3	1378	19	43199
+GO:0046395	"carboxylic acid catabolic process"	3	49	33	43199
+GO:0046395	"carboxylic acid catabolic process"	3	273	33	43199
+GO:0046395	"carboxylic acid catabolic process"	3	1378	33	43199
+GO:0044282	"small molecule catabolic process"	3	49	47	43199
+GO:0044282	"small molecule catabolic process"	3	273	47	43199
+GO:0044282	"small molecule catabolic process"	3	1378	47	43199
+GO:0016054	"organic acid catabolic process"	3	49	33	43199
+GO:0016054	"organic acid catabolic process"	3	273	33	43199
+GO:0016054	"organic acid catabolic process"	3	1378	33	43199
+GO:1901657	"glycosyl compound metabolic process"	3	49	72	43199
+GO:1901657	"glycosyl compound metabolic process"	3	273	72	43199
+GO:1901657	"glycosyl compound metabolic process"	3	1378	72	43199
+GO:0044723	"single-organism carbohydrate metabolic process"	3	49	67	43199
+GO:0044723	"single-organism carbohydrate metabolic process"	3	273	67	43199
+GO:0044723	"single-organism carbohydrate metabolic process"	3	1378	67	43199
+GO:0009259	"ribonucleotide metabolic process"	3	49	70	43199
+GO:0009259	"ribonucleotide metabolic process"	3	273	70	43199
+GO:0009259	"ribonucleotide metabolic process"	3	1378	70	43199
+GO:0009161	"ribonucleoside monophosphate metabolic process"	3	49	59	43199
+GO:0009161	"ribonucleoside monophosphate metabolic process"	3	273	59	43199
+GO:0009161	"ribonucleoside monophosphate metabolic process"	3	1378	59	43199
+GO:0009144	"purine nucleoside triphosphate metabolic process"	3	49	30	43199
+GO:0009144	"purine nucleoside triphosphate metabolic process"	3	273	30	43199
+GO:0009144	"purine nucleoside triphosphate metabolic process"	3	1378	30	43199
+GO:0009141	"nucleoside triphosphate metabolic process"	3	49	37	43199
+GO:0009141	"nucleoside triphosphate metabolic process"	3	273	37	43199
+GO:0009141	"nucleoside triphosphate metabolic process"	3	1378	37	43199
+GO:0009123	"nucleoside monophosphate metabolic process"	3	49	61	43199
+GO:0009123	"nucleoside monophosphate metabolic process"	3	273	61	43199
+GO:0009123	"nucleoside monophosphate metabolic process"	3	1378	61	43199
+GO:0009119	"ribonucleoside metabolic process"	3	49	66	43199
+GO:0009119	"ribonucleoside metabolic process"	3	273	66	43199
+GO:0009119	"ribonucleoside metabolic process"	3	1378	66	43199
+GO:0009116	"nucleoside metabolic process"	3	49	72	43199
+GO:0009116	"nucleoside metabolic process"	3	273	72	43199
+GO:0009116	"nucleoside metabolic process"	3	1378	72	43199
+GO:0005975	"carbohydrate metabolic process"	3	49	99	43199
+GO:0005975	"carbohydrate metabolic process"	3	273	99	43199
+GO:0005975	"carbohydrate metabolic process"	3	1378	99	43199
+GO:0051188	"cofactor biosynthetic process"	3	49	71	43199
+GO:0051188	"cofactor biosynthetic process"	3	273	71	43199
+GO:0051188	"cofactor biosynthetic process"	3	1378	71	43199
+GO:0035383	"thioester metabolic process"	3	49	10	43199
+GO:0035383	"thioester metabolic process"	3	273	10	43199
+GO:0035383	"thioester metabolic process"	3	1378	10	43199
+GO:0009108	"coenzyme biosynthetic process"	3	49	50	43199
+GO:0009108	"coenzyme biosynthetic process"	3	273	50	43199
+GO:0009108	"coenzyme biosynthetic process"	3	1378	50	43199
+GO:0006637	"acyl-CoA metabolic process"	3	49	10	43199
+GO:0006637	"acyl-CoA metabolic process"	3	273	10	43199
+GO:0006637	"acyl-CoA metabolic process"	3	1378	10	43199
+GO:0006084	"acetyl-CoA metabolic process"	3	49	7	43199
+GO:0006084	"acetyl-CoA metabolic process"	3	273	7	43199
+GO:0006084	"acetyl-CoA metabolic process"	3	1378	7	43199
+GO:0009084	"glutamine family amino acid biosynthetic process"	3	49	19	43199
+GO:0009084	"glutamine family amino acid biosynthetic process"	3	273	19	43199
+GO:0009084	"glutamine family amino acid biosynthetic process"	3	1378	19	43199
+GO:0009064	"glutamine family amino acid metabolic process"	3	49	45	43199
+GO:0009064	"glutamine family amino acid metabolic process"	3	273	45	43199
+GO:0009064	"glutamine family amino acid metabolic process"	3	1378	45	43199
+GO:0006541	"glutamine metabolic process"	3	49	18	43199
+GO:0006541	"glutamine metabolic process"	3	273	18	43199
+GO:0006541	"glutamine metabolic process"	3	1378	18	43199
+GO:0006542	"glutamine biosynthetic process"	3	49	3	43199
+GO:0006542	"glutamine biosynthetic process"	3	273	3	43199
+GO:0006542	"glutamine biosynthetic process"	3	1378	3	43199
+GO:1901293	"nucleoside phosphate biosynthetic process"	2	49	66	43199
+GO:1901293	"nucleoside phosphate biosynthetic process"	2	273	66	43199
+GO:1901293	"nucleoside phosphate biosynthetic process"	2	1378	66	43199
+GO:0090407	"organophosphate biosynthetic process"	2	49	110	43199
+GO:0090407	"organophosphate biosynthetic process"	2	273	110	43199
+GO:0090407	"organophosphate biosynthetic process"	2	1378	110	43199
+GO:0072528	"pyrimidine-containing compound biosynthetic process"	2	49	33	43199
+GO:0072528	"pyrimidine-containing compound biosynthetic process"	2	273	33	43199
+GO:0072528	"pyrimidine-containing compound biosynthetic process"	2	1378	33	43199
+GO:0072527	"pyrimidine-containing compound metabolic process"	2	49	36	43199
+GO:0072527	"pyrimidine-containing compound metabolic process"	2	273	36	43199
+GO:0072527	"pyrimidine-containing compound metabolic process"	2	1378	36	43199
+GO:0009165	"nucleotide biosynthetic process"	2	49	65	43199
+GO:0009165	"nucleotide biosynthetic process"	2	273	65	43199
+GO:0009165	"nucleotide biosynthetic process"	2	1378	65	43199
+GO:0043603	"cellular amide metabolic process"	2	49	144	43199
+GO:0043603	"cellular amide metabolic process"	2	273	144	43199
+GO:0043603	"cellular amide metabolic process"	2	1378	144	43199
+GO:0006518	"peptide metabolic process"	2	49	110	43199
+GO:0006518	"peptide metabolic process"	2	273	110	43199
+GO:0006518	"peptide metabolic process"	2	1378	110	43199
+GO:0034660	"ncRNA metabolic process"	2	49	68	43199
+GO:0034660	"ncRNA metabolic process"	2	273	68	43199
+GO:0034660	"ncRNA metabolic process"	2	1378	68	43199
+GO:0071840	"cellular component organization or biogenesis"	2	49	138	43199
+GO:0071840	"cellular component organization or biogenesis"	2	273	138	43199
+GO:0071840	"cellular component organization or biogenesis"	2	1378	138	43199
+GO:0044085	"cellular component biogenesis"	2	49	80	43199
+GO:0044085	"cellular component biogenesis"	2	273	80	43199
+GO:0044085	"cellular component biogenesis"	2	1378	80	43199
+GO:0022613	"ribonucleoprotein complex biogenesis"	2	49	23	43199
+GO:0022613	"ribonucleoprotein complex biogenesis"	2	273	23	43199
+GO:0022613	"ribonucleoprotein complex biogenesis"	2	1378	23	43199
+GO:0042254	"ribosome biogenesis"	2	49	23	43199
+GO:0042254	"ribosome biogenesis"	2	273	23	43199
+GO:0042254	"ribosome biogenesis"	2	1378	23	43199
+GO:1901565	"organonitrogen compound catabolic process"	2	49	35	43199
+GO:1901565	"organonitrogen compound catabolic process"	2	273	35	43199
+GO:1901565	"organonitrogen compound catabolic process"	2	1378	35	43199
+GO:0009063	"cellular amino acid catabolic process"	2	49	19	43199
+GO:0009063	"cellular amino acid catabolic process"	2	273	19	43199
+GO:0009063	"cellular amino acid catabolic process"	2	1378	19	43199
+GO:0072521	"purine-containing compound metabolic process"	2	49	71	43199
+GO:0072521	"purine-containing compound metabolic process"	2	273	71	43199
+GO:0072521	"purine-containing compound metabolic process"	2	1378	71	43199
+GO:0046939	"nucleotide phosphorylation"	2	49	11	43199
+GO:0046939	"nucleotide phosphorylation"	2	273	11	43199
+GO:0046939	"nucleotide phosphorylation"	2	1378	11	43199
+GO:0046128	"purine ribonucleoside metabolic process"	2	49	48	43199
+GO:0046128	"purine ribonucleoside metabolic process"	2	273	48	43199
+GO:0046128	"purine ribonucleoside metabolic process"	2	1378	48	43199
+GO:0046034	"ATP metabolic process"	2	49	28	43199
+GO:0046034	"ATP metabolic process"	2	273	28	43199
+GO:0046034	"ATP metabolic process"	2	1378	28	43199
+GO:0046031	"ADP metabolic process"	2	49	11	43199
+GO:0046031	"ADP metabolic process"	2	273	11	43199
+GO:0046031	"ADP metabolic process"	2	1378	11	43199
+GO:0044724	"single-organism carbohydrate catabolic process"	2	49	19	43199
+GO:0044724	"single-organism carbohydrate catabolic process"	2	273	19	43199
+GO:0044724	"single-organism carbohydrate catabolic process"	2	1378	19	43199
+GO:0016310	"phosphorylation"	2	49	26	43199
+GO:0016310	"phosphorylation"	2	273	26	43199
+GO:0016310	"phosphorylation"	2	1378	26	43199
+GO:0016052	"carbohydrate catabolic process"	2	49	20	43199
+GO:0016052	"carbohydrate catabolic process"	2	273	20	43199
+GO:0016052	"carbohydrate catabolic process"	2	1378	20	43199
+GO:0009205	"purine ribonucleoside triphosphate metabolic process"	2	49	29	43199
+GO:0009205	"purine ribonucleoside triphosphate metabolic process"	2	273	29	43199
+GO:0009205	"purine ribonucleoside triphosphate metabolic process"	2	1378	29	43199
+GO:0009199	"ribonucleoside triphosphate metabolic process"	2	49	33	43199
+GO:0009199	"ribonucleoside triphosphate metabolic process"	2	273	33	43199
+GO:0009199	"ribonucleoside triphosphate metabolic process"	2	1378	33	43199
+GO:0009185	"ribonucleoside diphosphate metabolic process"	2	49	11	43199
+GO:0009185	"ribonucleoside diphosphate metabolic process"	2	273	11	43199
+GO:0009185	"ribonucleoside diphosphate metabolic process"	2	1378	11	43199
+GO:0009179	"purine ribonucleoside diphosphate metabolic process"	2	49	11	43199
+GO:0009179	"purine ribonucleoside diphosphate metabolic process"	2	273	11	43199
+GO:0009179	"purine ribonucleoside diphosphate metabolic process"	2	1378	11	43199
+GO:0009167	"purine ribonucleoside monophosphate metabolic process"	2	49	50	43199
+GO:0009167	"purine ribonucleoside monophosphate metabolic process"	2	273	50	43199
+GO:0009167	"purine ribonucleoside monophosphate metabolic process"	2	1378	50	43199
+GO:0009150	"purine ribonucleotide metabolic process"	2	49	58	43199
+GO:0009150	"purine ribonucleotide metabolic process"	2	273	58	43199
+GO:0009150	"purine ribonucleotide metabolic process"	2	1378	58	43199
+GO:0009135	"purine nucleoside diphosphate metabolic process"	2	49	11	43199
+GO:0009135	"purine nucleoside diphosphate metabolic process"	2	273	11	43199
+GO:0009135	"purine nucleoside diphosphate metabolic process"	2	1378	11	43199
+GO:0009132	"nucleoside diphosphate metabolic process"	2	49	12	43199
+GO:0009132	"nucleoside diphosphate metabolic process"	2	273	12	43199
+GO:0009132	"nucleoside diphosphate metabolic process"	2	1378	12	43199
+GO:0009126	"purine nucleoside monophosphate metabolic process"	2	49	50	43199
+GO:0009126	"purine nucleoside monophosphate metabolic process"	2	273	50	43199
+GO:0009126	"purine nucleoside monophosphate metabolic process"	2	1378	50	43199
+GO:0006757	"ATP generation from ADP"	2	49	11	43199
+GO:0006757	"ATP generation from ADP"	2	273	11	43199
+GO:0006757	"ATP generation from ADP"	2	1378	11	43199
+GO:0006165	"nucleoside diphosphate phosphorylation"	2	49	11	43199
+GO:0006165	"nucleoside diphosphate phosphorylation"	2	273	11	43199
+GO:0006165	"nucleoside diphosphate phosphorylation"	2	1378	11	43199
+GO:0042278	"purine nucleoside metabolic process"	2	49	48	43199
+GO:0042278	"purine nucleoside metabolic process"	2	273	48	43199
+GO:0042278	"purine nucleoside metabolic process"	2	1378	48	43199
+GO:0006163	"purine nucleotide metabolic process"	2	49	59	43199
+GO:0006163	"purine nucleotide metabolic process"	2	273	59	43199
+GO:0006163	"purine nucleotide metabolic process"	2	1378	59	43199
+GO:0006096	"glycolytic process"	2	49	11	43199
+GO:0006096	"glycolytic process"	2	273	11	43199
+GO:0006096	"glycolytic process"	2	1378	11	43199
+GO:0071616	"acyl-CoA biosynthetic process"	2	49	6	43199
+GO:0071616	"acyl-CoA biosynthetic process"	2	273	6	43199
+GO:0071616	"acyl-CoA biosynthetic process"	2	1378	6	43199
+GO:0044272	"sulfur compound biosynthetic process"	2	49	34	43199
+GO:0044272	"sulfur compound biosynthetic process"	2	273	34	43199
+GO:0044272	"sulfur compound biosynthetic process"	2	1378	34	43199
+GO:0035384	"thioester biosynthetic process"	2	49	6	43199
+GO:0035384	"thioester biosynthetic process"	2	273	6	43199
+GO:0035384	"thioester biosynthetic process"	2	1378	6	43199
+GO:0006085	"acetyl-CoA biosynthetic process"	2	49	4	43199
+GO:0006085	"acetyl-CoA biosynthetic process"	2	273	4	43199
+GO:0006085	"acetyl-CoA biosynthetic process"	2	1378	4	43199
+GO:0006086	"acetyl-CoA biosynthetic process from pyruvate"	2	49	2	43199
+GO:0006086	"acetyl-CoA biosynthetic process from pyruvate"	2	273	2	43199
+GO:0006086	"acetyl-CoA biosynthetic process from pyruvate"	2	1378	2	43199
+GO:0009081	"branched-chain amino acid metabolic process"	2	49	17	43199
+GO:0009081	"branched-chain amino acid metabolic process"	2	273	17	43199
+GO:0009081	"branched-chain amino acid metabolic process"	2	1378	17	43199
+GO:0009083	"branched-chain amino acid catabolic process"	1	49	2	43199
+GO:0009083	"branched-chain amino acid catabolic process"	1	273	2	43199
+GO:0009083	"branched-chain amino acid catabolic process"	1	1378	2	43199
+GO:0072525	"pyridine-containing compound biosynthetic process"	1	49	10	43199
+GO:0072525	"pyridine-containing compound biosynthetic process"	1	273	10	43199
+GO:0072525	"pyridine-containing compound biosynthetic process"	1	1378	10	43199
+GO:0019674	"NAD metabolic process"	1	49	4	43199
+GO:0019674	"NAD metabolic process"	1	273	4	43199
+GO:0019674	"NAD metabolic process"	1	1378	4	43199
+GO:0019363	"pyridine nucleotide biosynthetic process"	1	49	5	43199
+GO:0019363	"pyridine nucleotide biosynthetic process"	1	273	5	43199
+GO:0019363	"pyridine nucleotide biosynthetic process"	1	1378	5	43199
+GO:0019359	"nicotinamide nucleotide biosynthetic process"	1	49	4	43199
+GO:0019359	"nicotinamide nucleotide biosynthetic process"	1	273	4	43199
+GO:0019359	"nicotinamide nucleotide biosynthetic process"	1	1378	4	43199
+GO:0009435	"NAD biosynthetic process"	1	49	3	43199
+GO:0009435	"NAD biosynthetic process"	1	273	3	43199
+GO:0009435	"NAD biosynthetic process"	1	1378	3	43199
+GO:0072329	"monocarboxylic acid catabolic process"	1	49	14	43199
+GO:0072329	"monocarboxylic acid catabolic process"	1	273	14	43199
+GO:0072329	"monocarboxylic acid catabolic process"	1	1378	14	43199
+GO:0044242	"cellular lipid catabolic process"	1	49	1	43199
+GO:0044242	"cellular lipid catabolic process"	1	273	1	43199
+GO:0044242	"cellular lipid catabolic process"	1	1378	1	43199
+GO:0034440	"lipid oxidation"	1	49	1	43199
+GO:0034440	"lipid oxidation"	1	273	1	43199
+GO:0034440	"lipid oxidation"	1	1378	1	43199
+GO:0030258	"lipid modification"	1	49	8	43199
+GO:0030258	"lipid modification"	1	273	8	43199
+GO:0030258	"lipid modification"	1	1378	8	43199
+GO:0019395	"fatty acid oxidation"	1	49	1	43199
+GO:0019395	"fatty acid oxidation"	1	273	1	43199
+GO:0019395	"fatty acid oxidation"	1	1378	1	43199
+GO:0009062	"fatty acid catabolic process"	1	49	1	43199
+GO:0009062	"fatty acid catabolic process"	1	273	1	43199
+GO:0009062	"fatty acid catabolic process"	1	1378	1	43199
+GO:0006635	"fatty acid beta-oxidation"	1	49	1	43199
+GO:0006635	"fatty acid beta-oxidation"	1	273	1	43199
+GO:0006635	"fatty acid beta-oxidation"	1	1378	1	43199
+GO:1901361	"organic cyclic compound catabolic process"	1	49	28	43199
+GO:1901361	"organic cyclic compound catabolic process"	1	273	28	43199
+GO:1901361	"organic cyclic compound catabolic process"	1	1378	28	43199
+GO:1901292	"nucleoside phosphate catabolic process"	1	49	2	43199
+GO:1901292	"nucleoside phosphate catabolic process"	1	273	2	43199
+GO:1901292	"nucleoside phosphate catabolic process"	1	1378	2	43199
+GO:0046700	"heterocycle catabolic process"	1	49	21	43199
+GO:0046700	"heterocycle catabolic process"	1	273	21	43199
+GO:0046700	"heterocycle catabolic process"	1	1378	21	43199
+GO:0046434	"organophosphate catabolic process"	1	49	5	43199
+GO:0046434	"organophosphate catabolic process"	1	273	5	43199
+GO:0046434	"organophosphate catabolic process"	1	1378	5	43199
+GO:0044270	"cellular nitrogen compound catabolic process"	1	49	26	43199
+GO:0044270	"cellular nitrogen compound catabolic process"	1	273	26	43199
+GO:0044270	"cellular nitrogen compound catabolic process"	1	1378	26	43199
+GO:0034655	"nucleobase-containing compound catabolic process"	1	49	12	43199
+GO:0034655	"nucleobase-containing compound catabolic process"	1	273	12	43199
+GO:0034655	"nucleobase-containing compound catabolic process"	1	1378	12	43199
+GO:0019439	"aromatic compound catabolic process"	1	49	31	43199
+GO:0019439	"aromatic compound catabolic process"	1	273	31	43199
+GO:0019439	"aromatic compound catabolic process"	1	1378	31	43199
+GO:0009143	"nucleoside triphosphate catabolic process"	1	49	1	43199
+GO:0009143	"nucleoside triphosphate catabolic process"	1	273	1	43199
+GO:0009143	"nucleoside triphosphate catabolic process"	1	1378	1	43199
+GO:0009146	"purine nucleoside triphosphate catabolic process"	1	49	1	43199
+GO:0009146	"purine nucleoside triphosphate catabolic process"	1	273	1	43199
+GO:0009146	"purine nucleoside triphosphate catabolic process"	1	1378	1	43199
+GO:0051301	"cell division"	1	49	37	43199
+GO:0051301	"cell division"	1	273	37	43199
+GO:0051301	"cell division"	1	1378	37	43199
+GO:0007049	"cell cycle"	1	49	32	43199
+GO:0007049	"cell cycle"	1	273	32	43199
+GO:0007049	"cell cycle"	1	1378	32	43199
+GO:1902578	"single-organism localization"	1	49	245	43199
+GO:1902578	"single-organism localization"	1	273	245	43199
+GO:1902578	"single-organism localization"	1	1378	245	43199
+GO:0051234	"establishment of localization"	1	49	268	43199
+GO:0051234	"establishment of localization"	1	273	268	43199
+GO:0051234	"establishment of localization"	1	1378	268	43199
+GO:0051179	"localization"	1	49	282	43199
+GO:0051179	"localization"	1	273	282	43199
+GO:0051179	"localization"	1	1378	282	43199
+GO:0044765	"single-organism transport"	1	49	243	43199
+GO:0044765	"single-organism transport"	1	273	243	43199
+GO:0044765	"single-organism transport"	1	1378	243	43199
+GO:0006810	"transport"	1	49	266	43199
+GO:0006810	"transport"	1	273	266	43199
+GO:0006810	"transport"	1	1378	266	43199
+GO:0006811	"ion transport"	1	49	62	43199
+GO:0006811	"ion transport"	1	273	62	43199
+GO:0006811	"ion transport"	1	1378	62	43199
+GO:0051156	"glucose 6-phosphate metabolic process"	1	49	7	43199
+GO:0051156	"glucose 6-phosphate metabolic process"	1	273	7	43199
+GO:0051156	"glucose 6-phosphate metabolic process"	1	1378	7	43199
+GO:0019682	"glyceraldehyde-3-phosphate metabolic process"	1	49	12	43199
+GO:0019682	"glyceraldehyde-3-phosphate metabolic process"	1	273	12	43199
+GO:0019682	"glyceraldehyde-3-phosphate metabolic process"	1	1378	12	43199
+GO:0006739	"NADP metabolic process"	1	49	8	43199
+GO:0006739	"NADP metabolic process"	1	273	8	43199
+GO:0006739	"NADP metabolic process"	1	1378	8	43199
+GO:0006081	"cellular aldehyde metabolic process"	1	49	18	43199
+GO:0006081	"cellular aldehyde metabolic process"	1	273	18	43199
+GO:0006081	"cellular aldehyde metabolic process"	1	1378	18	43199
+GO:0006098	"pentose-phosphate shunt"	1	49	7	43199
+GO:0006098	"pentose-phosphate shunt"	1	273	7	43199
+GO:0006098	"pentose-phosphate shunt"	1	1378	7	43199
+GO:0044262	"cellular carbohydrate metabolic process"	1	49	19	43199
+GO:0044262	"cellular carbohydrate metabolic process"	1	273	19	43199
+GO:0044262	"cellular carbohydrate metabolic process"	1	1378	19	43199
+GO:0019520	"aldonic acid metabolic process"	1	49	2	43199
+GO:0019520	"aldonic acid metabolic process"	1	273	2	43199
+GO:0019520	"aldonic acid metabolic process"	1	1378	2	43199
+GO:0019521	"D-gluconate metabolic process"	1	49	1	43199
+GO:0019521	"D-gluconate metabolic process"	1	273	1	43199
+GO:0019521	"D-gluconate metabolic process"	1	1378	1	43199
+GO:0046112	"nucleobase biosynthetic process"	1	49	9	43199
+GO:0046112	"nucleobase biosynthetic process"	1	273	9	43199
+GO:0046112	"nucleobase biosynthetic process"	1	1378	9	43199
+GO:0009112	"nucleobase metabolic process"	1	49	13	43199
+GO:0009112	"nucleobase metabolic process"	1	273	13	43199
+GO:0009112	"nucleobase metabolic process"	1	1378	13	43199
+GO:0006206	"pyrimidine nucleobase metabolic process"	1	49	6	43199
+GO:0006206	"pyrimidine nucleobase metabolic process"	1	273	6	43199
+GO:0006206	"pyrimidine nucleobase metabolic process"	1	1378	6	43199
+GO:0019856	"pyrimidine nucleobase biosynthetic process"	1	49	6	43199
+GO:0019856	"pyrimidine nucleobase biosynthetic process"	1	273	6	43199
+GO:0019856	"pyrimidine nucleobase biosynthetic process"	1	1378	6	43199
+GO:1901659	"glycosyl compound biosynthetic process"	1	49	46	43199
+GO:1901659	"glycosyl compound biosynthetic process"	1	273	46	43199
+GO:1901659	"glycosyl compound biosynthetic process"	1	1378	46	43199
+GO:1901137	"carbohydrate derivative biosynthetic process"	1	49	109	43199
+GO:1901137	"carbohydrate derivative biosynthetic process"	1	273	109	43199
+GO:1901137	"carbohydrate derivative biosynthetic process"	1	1378	109	43199
+GO:0046390	"ribose phosphate biosynthetic process"	1	49	52	43199
+GO:0046390	"ribose phosphate biosynthetic process"	1	273	52	43199
+GO:0046390	"ribose phosphate biosynthetic process"	1	1378	52	43199
+GO:0046134	"pyrimidine nucleoside biosynthetic process"	1	49	11	43199
+GO:0046134	"pyrimidine nucleoside biosynthetic process"	1	273	11	43199
+GO:0046134	"pyrimidine nucleoside biosynthetic process"	1	1378	11	43199
+GO:0046132	"pyrimidine ribonucleoside biosynthetic process"	1	49	11	43199
+GO:0046132	"pyrimidine ribonucleoside biosynthetic process"	1	273	11	43199
+GO:0046132	"pyrimidine ribonucleoside biosynthetic process"	1	1378	11	43199
+GO:0046131	"pyrimidine ribonucleoside metabolic process"	1	49	11	43199
+GO:0046131	"pyrimidine ribonucleoside metabolic process"	1	273	11	43199
+GO:0046131	"pyrimidine ribonucleoside metabolic process"	1	1378	11	43199
+GO:0046049	"UMP metabolic process"	1	49	7	43199
+GO:0046049	"UMP metabolic process"	1	273	7	43199
+GO:0046049	"UMP metabolic process"	1	1378	7	43199
+GO:0042455	"ribonucleoside biosynthetic process"	1	49	45	43199
+GO:0042455	"ribonucleoside biosynthetic process"	1	273	45	43199
+GO:0042455	"ribonucleoside biosynthetic process"	1	1378	45	43199
+GO:0009260	"ribonucleotide biosynthetic process"	1	49	50	43199
+GO:0009260	"ribonucleotide biosynthetic process"	1	273	50	43199
+GO:0009260	"ribonucleotide biosynthetic process"	1	1378	50	43199
+GO:0009220	"pyrimidine ribonucleotide biosynthetic process"	1	49	11	43199
+GO:0009220	"pyrimidine ribonucleotide biosynthetic process"	1	273	11	43199
+GO:0009220	"pyrimidine ribonucleotide biosynthetic process"	1	1378	11	43199
+GO:0009218	"pyrimidine ribonucleotide metabolic process"	1	49	11	43199
+GO:0009218	"pyrimidine ribonucleotide metabolic process"	1	273	11	43199
+GO:0009218	"pyrimidine ribonucleotide metabolic process"	1	1378	11	43199
+GO:0009174	"pyrimidine ribonucleoside monophosphate biosynthetic process"	1	49	7	43199
+GO:0009174	"pyrimidine ribonucleoside monophosphate biosynthetic process"	1	273	7	43199
+GO:0009174	"pyrimidine ribonucleoside monophosphate biosynthetic process"	1	1378	7	43199
+GO:0009173	"pyrimidine ribonucleoside monophosphate metabolic process"	1	49	7	43199
+GO:0009173	"pyrimidine ribonucleoside monophosphate metabolic process"	1	273	7	43199
+GO:0009173	"pyrimidine ribonucleoside monophosphate metabolic process"	1	1378	7	43199
+GO:0009163	"nucleoside biosynthetic process"	1	49	46	43199
+GO:0009163	"nucleoside biosynthetic process"	1	273	46	43199
+GO:0009163	"nucleoside biosynthetic process"	1	1378	46	43199
+GO:0009156	"ribonucleoside monophosphate biosynthetic process"	1	49	40	43199
+GO:0009156	"ribonucleoside monophosphate biosynthetic process"	1	273	40	43199
+GO:0009156	"ribonucleoside monophosphate biosynthetic process"	1	1378	40	43199
+GO:0009130	"pyrimidine nucleoside monophosphate biosynthetic process"	1	49	9	43199
+GO:0009130	"pyrimidine nucleoside monophosphate biosynthetic process"	1	273	9	43199
+GO:0009130	"pyrimidine nucleoside monophosphate biosynthetic process"	1	1378	9	43199
+GO:0009129	"pyrimidine nucleoside monophosphate metabolic process"	1	49	9	43199
+GO:0009129	"pyrimidine nucleoside monophosphate metabolic process"	1	273	9	43199
+GO:0009129	"pyrimidine nucleoside monophosphate metabolic process"	1	1378	9	43199
+GO:0009124	"nucleoside monophosphate biosynthetic process"	1	49	42	43199
+GO:0009124	"nucleoside monophosphate biosynthetic process"	1	273	42	43199
+GO:0009124	"nucleoside monophosphate biosynthetic process"	1	1378	42	43199
+GO:0006222	"UMP biosynthetic process"	1	49	7	43199
+GO:0006222	"UMP biosynthetic process"	1	273	7	43199
+GO:0006222	"UMP biosynthetic process"	1	1378	7	43199
+GO:0006221	"pyrimidine nucleotide biosynthetic process"	1	49	17	43199
+GO:0006221	"pyrimidine nucleotide biosynthetic process"	1	273	17	43199
+GO:0006221	"pyrimidine nucleotide biosynthetic process"	1	1378	17	43199
+GO:0006220	"pyrimidine nucleotide metabolic process"	1	49	19	43199
+GO:0006220	"pyrimidine nucleotide metabolic process"	1	273	19	43199
+GO:0006220	"pyrimidine nucleotide metabolic process"	1	1378	19	43199
+GO:0006213	"pyrimidine nucleoside metabolic process"	1	49	11	43199
+GO:0006213	"pyrimidine nucleoside metabolic process"	1	273	11	43199
+GO:0006213	"pyrimidine nucleoside metabolic process"	1	1378	11	43199
+GO:0044205	"'de novo' UMP biosynthetic process"	1	49	6	43199
+GO:0044205	"'de novo' UMP biosynthetic process"	1	273	6	43199
+GO:0044205	"'de novo' UMP biosynthetic process"	1	1378	6	43199
+GO:0006575	"cellular modified amino acid metabolic process"	1	49	28	43199
+GO:0006575	"cellular modified amino acid metabolic process"	1	273	28	43199
+GO:0006575	"cellular modified amino acid metabolic process"	1	1378	28	43199
+GO:0006749	"glutathione metabolic process"	1	49	3	43199
+GO:0006749	"glutathione metabolic process"	1	273	3	43199
+GO:0006749	"glutathione metabolic process"	1	1378	3	43199
+GO:0006457	"protein folding"	1	49	15	43199
+GO:0006457	"protein folding"	1	273	15	43199
+GO:0006457	"protein folding"	1	1378	15	43199
+GO:0044267	"cellular protein metabolic process"	1	49	138	43199
+GO:0044267	"cellular protein metabolic process"	1	273	138	43199
+GO:0044267	"cellular protein metabolic process"	1	1378	138	43199
+GO:0043604	"amide biosynthetic process"	1	49	123	43199
+GO:0043604	"amide biosynthetic process"	1	273	123	43199
+GO:0043604	"amide biosynthetic process"	1	1378	123	43199
+GO:0043043	"peptide biosynthetic process"	1	49	108	43199
+GO:0043043	"peptide biosynthetic process"	1	273	108	43199
+GO:0043043	"peptide biosynthetic process"	1	1378	108	43199
+GO:0043039	"tRNA aminoacylation"	1	49	26	43199
+GO:0043039	"tRNA aminoacylation"	1	273	26	43199
+GO:0043039	"tRNA aminoacylation"	1	1378	26	43199
+GO:0043038	"amino acid activation"	1	49	26	43199
+GO:0043038	"amino acid activation"	1	273	26	43199
+GO:0043038	"amino acid activation"	1	1378	26	43199
+GO:0019538	"protein metabolic process"	1	49	149	43199
+GO:0019538	"protein metabolic process"	1	273	149	43199
+GO:0019538	"protein metabolic process"	1	1378	149	43199
+GO:0006418	"tRNA aminoacylation for protein translation"	1	49	26	43199
+GO:0006418	"tRNA aminoacylation for protein translation"	1	273	26	43199
+GO:0006418	"tRNA aminoacylation for protein translation"	1	1378	26	43199
+GO:0006412	"translation"	1	49	104	43199
+GO:0006412	"translation"	1	273	104	43199
+GO:0006412	"translation"	1	1378	104	43199
+GO:0006399	"tRNA metabolic process"	1	49	52	43199
+GO:0006399	"tRNA metabolic process"	1	273	52	43199
+GO:0006399	"tRNA metabolic process"	1	1378	52	43199
+GO:0006419	"alanyl-tRNA aminoacylation"	1	49	2	43199
+GO:0006419	"alanyl-tRNA aminoacylation"	1	273	2	43199
+GO:0006419	"alanyl-tRNA aminoacylation"	1	1378	2	43199
+GO:0034470	"ncRNA processing"	1	49	39	43199
+GO:0034470	"ncRNA processing"	1	273	39	43199
+GO:0034470	"ncRNA processing"	1	1378	39	43199
+GO:0016072	"rRNA metabolic process"	1	49	16	43199
+GO:0016072	"rRNA metabolic process"	1	273	16	43199
+GO:0016072	"rRNA metabolic process"	1	1378	16	43199
+GO:0006396	"RNA processing"	1	49	45	43199
+GO:0006396	"RNA processing"	1	273	45	43199
+GO:0006396	"RNA processing"	1	1378	45	43199
+GO:0006364	"rRNA processing"	1	49	14	43199
+GO:0006364	"rRNA processing"	1	273	14	43199
+GO:0006364	"rRNA processing"	1	1378	14	43199
+GO:0042274	"ribosomal small subunit biogenesis"	1	49	4	43199
+GO:0042274	"ribosomal small subunit biogenesis"	1	273	4	43199
+GO:0042274	"ribosomal small subunit biogenesis"	1	1378	4	43199
+GO:1901606	"alpha-amino acid catabolic process"	1	49	15	43199
+GO:1901606	"alpha-amino acid catabolic process"	1	273	15	43199
+GO:1901606	"alpha-amino acid catabolic process"	1	1378	15	43199
+GO:0046440	"L-lysine metabolic process"	1	49	2	43199
+GO:0046440	"L-lysine metabolic process"	1	273	2	43199
+GO:0046440	"L-lysine metabolic process"	1	1378	2	43199
+GO:0019477	"L-lysine catabolic process"	1	49	2	43199
+GO:0019477	"L-lysine catabolic process"	1	273	2	43199
+GO:0019477	"L-lysine catabolic process"	1	1378	2	43199
+GO:0019474	"L-lysine catabolic process to acetyl-CoA"	1	49	2	43199
+GO:0019474	"L-lysine catabolic process to acetyl-CoA"	1	273	2	43199
+GO:0019474	"L-lysine catabolic process to acetyl-CoA"	1	1378	2	43199
+GO:0009068	"aspartate family amino acid catabolic process"	1	49	3	43199
+GO:0009068	"aspartate family amino acid catabolic process"	1	273	3	43199
+GO:0009068	"aspartate family amino acid catabolic process"	1	1378	3	43199
+GO:0009066	"aspartate family amino acid metabolic process"	1	49	21	43199
+GO:0009066	"aspartate family amino acid metabolic process"	1	273	21	43199
+GO:0009066	"aspartate family amino acid metabolic process"	1	1378	21	43199
+GO:0006554	"lysine catabolic process"	1	49	2	43199
+GO:0006554	"lysine catabolic process"	1	273	2	43199
+GO:0006554	"lysine catabolic process"	1	1378	2	43199
+GO:0006553	"lysine metabolic process"	1	49	10	43199
+GO:0006553	"lysine metabolic process"	1	273	10	43199
+GO:0006553	"lysine metabolic process"	1	1378	10	43199
+GO:0033512	"L-lysine catabolic process to acetyl-CoA via saccharopine"	1	49	2	43199
+GO:0033512	"L-lysine catabolic process to acetyl-CoA via saccharopine"	1	273	2	43199
+GO:0033512	"L-lysine catabolic process to acetyl-CoA via saccharopine"	1	1378	2	43199
+GO:0009082	"branched-chain amino acid biosynthetic process"	1	49	15	43199
+GO:0009082	"branched-chain amino acid biosynthetic process"	1	273	15	43199
+GO:0009082	"branched-chain amino acid biosynthetic process"	1	1378	15	43199
+GO:0006551	"leucine metabolic process"	1	49	5	43199
+GO:0006551	"leucine metabolic process"	1	273	5	43199
+GO:0006551	"leucine metabolic process"	1	1378	5	43199
+GO:0009098	"leucine biosynthetic process"	1	49	5	43199
+GO:0009098	"leucine biosynthetic process"	1	273	5	43199
+GO:0009098	"leucine biosynthetic process"	1	1378	5	43199
+GO:0071941	"nitrogen cycle metabolic process"	1	49	15	43199
+GO:0071941	"nitrogen cycle metabolic process"	1	273	15	43199
+GO:0071941	"nitrogen cycle metabolic process"	1	1378	15	43199
+GO:0009399	"nitrogen fixation"	1	49	2	43199
+GO:0009399	"nitrogen fixation"	1	273	2	43199
+GO:0009399	"nitrogen fixation"	1	1378	2	43199

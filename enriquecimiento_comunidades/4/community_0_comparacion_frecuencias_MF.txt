@@ -1,0 +1,150 @@
+GO:0003674	"molecular_function"	169	1138	3552	28221
+GO:0005488	"binding"	83	1138	1404	28221
+GO:1901363	"heterocyclic compound binding"	72	1138	964	28221
+GO:0097159	"organic cyclic compound binding"	72	1138	964	28221
+GO:0003676	"nucleic acid binding"	60	1138	406	28221
+GO:0003723	"RNA binding"	59	1138	111	28221
+GO:0005198	"structural molecule activity"	54	1138	65	28221
+GO:0003735	"structural constituent of ribosome"	54	1138	58	28221
+GO:0019843	"rRNA binding"	37	1138	41	28221
+GO:0003824	"catalytic activity"	31	1138	1758	28221
+GO:0043167	"ion binding"	20	1138	766	28221
+GO:0016787	"hydrolase activity"	15	1138	547	28221
+GO:1901265	"nucleoside phosphate binding"	12	1138	477	28221
+GO:0043168	"anion binding"	12	1138	468	28221
+GO:0036094	"small molecule binding"	12	1138	502	28221
+GO:0000166	"nucleotide binding"	12	1138	477	28221
+GO:0097367	"carbohydrate derivative binding"	11	1138	375	28221
+GO:0035639	"purine ribonucleoside triphosphate binding"	11	1138	348	28221
+GO:0032555	"purine ribonucleotide binding"	11	1138	350	28221
+GO:0032553	"ribonucleotide binding"	11	1138	363	28221
+GO:0032550	"purine ribonucleoside binding"	11	1138	350	28221
+GO:0032549	"ribonucleoside binding"	11	1138	351	28221
+GO:0017076	"purine nucleotide binding"	11	1138	351	28221
+GO:0001883	"purine nucleoside binding"	11	1138	350	28221
+GO:0001882	"nucleoside binding"	11	1138	351	28221
+GO:0016740	"transferase activity"	9	1138	493	28221
+GO:0000049	"tRNA binding"	8	1138	22	28221
+GO:0032561	"guanyl ribonucleotide binding"	8	1138	29	28221
+GO:0019001	"guanyl nucleotide binding"	8	1138	29	28221
+GO:0005525	"GTP binding"	8	1138	29	28221
+GO:0043169	"cation binding"	8	1138	305	28221
+GO:0046872	"metal ion binding"	8	1138	297	28221
+GO:0008135	"translation factor activity, RNA binding"	7	1138	14	28221
+GO:0016818	"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"	7	1138	209	28221
+GO:0016817	"hydrolase activity, acting on acid anhydrides"	7	1138	209	28221
+GO:0016462	"pyrophosphatase activity"	7	1138	208	28221
+GO:0017111	"nucleoside-triphosphatase activity"	7	1138	194	28221
+GO:0016741	"transferase activity, transferring one-carbon groups"	6	1138	87	28221
+GO:0008168	"methyltransferase activity"	6	1138	75	28221
+GO:0003924	"GTPase activity"	6	1138	17	28221
+GO:0016788	"hydrolase activity, acting on ester bonds"	4	1138	104	28221
+GO:0003743	"translation initiation factor activity"	3	1138	3	28221
+GO:0008233	"peptidase activity"	3	1138	71	28221
+GO:0016874	"ligase activity"	3	1138	101	28221
+GO:0032559	"adenyl ribonucleotide binding"	3	1138	321	28221
+GO:0030554	"adenyl nucleotide binding"	3	1138	322	28221
+GO:0005524	"ATP binding"	3	1138	319	28221
+GO:0004519	"endonuclease activity"	3	1138	20	28221
+GO:0004518	"nuclease activity"	3	1138	45	28221
+GO:0046914	"transition metal ion binding"	3	1138	92	28221
+GO:0070180	"large ribosomal subunit rRNA binding"	2	1138	2	28221
+GO:0022804	"active transmembrane transporter activity"	2	1138	73	28221
+GO:0015405	"P-P-bond-hydrolysis-driven transmembrane transporter activity"	2	1138	59	28221
+GO:0015399	"primary active transmembrane transporter activity"	2	1138	59	28221
+GO:0022857	"transmembrane transporter activity"	2	1138	218	28221
+GO:0005215	"transporter activity"	2	1138	249	28221
+GO:0016491	"oxidoreductase activity"	2	1138	385	28221
+GO:0003746	"translation elongation factor activity"	2	1138	7	28221
+GO:0008079	"translation termination factor activity"	2	1138	4	28221
+GO:0003747	"translation release factor activity"	2	1138	4	28221
+GO:0016433	"rRNA (adenine) methyltransferase activity"	2	1138	5	28221
+GO:0008757	"S-adenosylmethionine-dependent methyltransferase activity"	2	1138	36	28221
+GO:0008649	"rRNA methyltransferase activity"	2	1138	10	28221
+GO:0008173	"RNA methyltransferase activity"	2	1138	20	28221
+GO:0008170	"N-methyltransferase activity"	2	1138	12	28221
+GO:0016881	"acid-amino acid ligase activity"	2	1138	14	28221
+GO:0016879	"ligase activity, forming carbon-nitrogen bonds"	2	1138	45	28221
+GO:0004540	"ribonuclease activity"	2	1138	12	28221
+GO:0004521	"endoribonuclease activity"	2	1138	8	28221
+GO:0008270	"zinc ion binding"	2	1138	40	28221
+GO:0016835	"carbon-oxygen lyase activity"	2	1138	56	28221
+GO:0016829	"lyase activity"	2	1138	134	28221
+GO:0051540	"metal cluster binding"	2	1138	54	28221
+GO:0051536	"iron-sulfur cluster binding"	2	1138	54	28221
+GO:0016779	"nucleotidyltransferase activity"	1	1138	44	28221
+GO:0016772	"transferase activity, transferring phosphorus-containing groups"	1	1138	165	28221
+GO:0061710	"L-threonylcarbamoyladenylate synthase"	1	1138	1	28221
+GO:0003725	"double-stranded RNA binding"	1	1138	1	28221
+GO:0016859	"cis-trans isomerase activity"	1	1138	8	28221
+GO:0016853	"isomerase activity"	1	1138	81	28221
+GO:0003755	"peptidyl-prolyl cis-trans isomerase activity"	1	1138	7	28221
+GO:0008276	"protein methyltransferase activity"	1	1138	6	28221
+GO:0016149	"translation release factor activity, codon specific"	1	1138	3	28221
+GO:0000287	"magnesium ion binding"	1	1138	49	28221
+GO:0044877	"macromolecular complex binding"	1	1138	8	28221
+GO:0043021	"ribonucleoprotein complex binding"	1	1138	8	28221
+GO:0043022	"ribosome binding"	1	1138	6	28221
+GO:0016876	"ligase activity, forming aminoacyl-tRNA and related compounds"	1	1138	28	28221
+GO:0016875	"ligase activity, forming carbon-oxygen bonds"	1	1138	28	28221
+GO:0004812	"aminoacyl-tRNA ligase activity"	1	1138	28	28221
+GO:0004829	"threonine-tRNA ligase activity"	1	1138	1	28221
+GO:0022892	"substrate-specific transporter activity"	1	1138	116	28221
+GO:0022884	"macromolecule transmembrane transporter activity"	1	1138	11	28221
+GO:0022891	"substrate-specific transmembrane transporter activity"	1	1138	111	28221
+GO:0008565	"protein transporter activity"	1	1138	9	28221
+GO:0008320	"protein transmembrane transporter activity"	1	1138	6	28221
+GO:0015450	"P-P-bond-hydrolysis-driven protein transmembrane transporter activity"	1	1138	4	28221
+GO:0042578	"phosphoric ester hydrolase activity"	1	1138	32	28221
+GO:0016791	"phosphatase activity"	1	1138	27	28221
+GO:0004035	"alkaline phosphatase activity"	1	1138	2	28221
+GO:0043492	"ATPase activity, coupled to movement of substances"	1	1138	54	28221
+GO:0016820	"hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances"	1	1138	54	28221
+GO:0016887	"ATPase activity"	1	1138	162	28221
+GO:0042623	"ATPase activity, coupled"	1	1138	69	28221
+GO:0042626	"ATPase activity, coupled to transmembrane movement of substances"	1	1138	54	28221
+GO:0044822	"poly(A) RNA binding"	1	1138	2	28221
+GO:0003729	"mRNA binding"	1	1138	2	28221
+GO:0016657	"oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor"	1	1138	2	28221
+GO:0016646	"oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor"	1	1138	6	28221
+GO:0016645	"oxidoreductase activity, acting on the CH-NH group of donors"	1	1138	15	28221
+GO:0016651	"oxidoreductase activity, acting on NAD(P)H"	1	1138	38	28221
+GO:0033739	"preQ1 synthase activity"	1	1138	1	28221
+GO:0016661	"oxidoreductase activity, acting on other nitrogenous compounds as donors"	1	1138	11	28221
+GO:0046857	"oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor"	1	1138	2	28221
+GO:0016836	"hydro-lyase activity"	1	1138	48	28221
+GO:0004424	"imidazoleglycerol-phosphate dehydratase activity"	1	1138	1	28221
+GO:0050662	"coenzyme binding"	1	1138	131	28221
+GO:0048037	"cofactor binding"	1	1138	181	28221
+GO:0050660	"flavin adenine dinucleotide binding"	1	1138	49	28221
+GO:0000179	"rRNA (adenine-N6,N6-)-dimethyltransferase activity"	1	1138	2	28221
+GO:0008988	"rRNA (adenine-N6-)-methyltransferase activity"	1	1138	2	28221
+GO:0052908	"16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase activity"	1	1138	1	28221
+GO:0008097	"5S rRNA binding"	1	1138	1	28221
+GO:0070011	"peptidase activity, acting on L-amino acid peptides"	1	1138	54	28221
+GO:0008237	"metallopeptidase activity"	1	1138	22	28221
+GO:0004175	"endopeptidase activity"	1	1138	23	28221
+GO:0004222	"metalloendopeptidase activity"	1	1138	11	28221
+GO:0008764	"UDP-N-acetylmuramoylalanine-D-glutamate ligase activity"	1	1138	1	28221
+GO:0004326	"tetrahydrofolylpolyglutamate synthase activity"	1	1138	2	28221
+GO:0032296	"double-stranded RNA-specific ribonuclease activity"	1	1138	2	28221
+GO:0016893	"endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters"	1	1138	7	28221
+GO:0016891	"endoribonuclease activity, producing 5'-phosphomonoesters"	1	1138	5	28221
+GO:0004525	"ribonuclease III activity"	1	1138	2	28221
+GO:0016799	"hydrolase activity, hydrolyzing N-glycosyl compounds"	1	1138	12	28221
+GO:0016798	"hydrolase activity, acting on glycosyl bonds"	1	1138	28	28221
+GO:0019104	"DNA N-glycosylase activity"	1	1138	8	28221
+GO:0004536	"deoxyribonuclease activity"	1	1138	13	28221
+GO:0004520	"endodeoxyribonuclease activity"	1	1138	8	28221
+GO:0003906	"DNA-(apurinic or apyrimidinic site) lyase activity"	1	1138	1	28221
+GO:0000702	"oxidized base lesion DNA N-glycosylase activity"	1	1138	1	28221
+GO:0008534	"oxidized purine nucleobase lesion DNA N-glycosylase activity"	1	1138	1	28221
+GO:0003677	"DNA binding"	1	1138	262	28221
+GO:0003684	"damaged DNA binding"	1	1138	6	28221
+GO:0005506	"iron ion binding"	1	1138	16	28221
+GO:0070283	"radical SAM enzyme activity"	1	1138	2	28221
+GO:0016782	"transferase activity, transferring sulfur-containing groups"	1	1138	14	28221
+GO:0016783	"sulfurtransferase activity"	1	1138	9	28221
+GO:0004076	"biotin synthase activity"	1	1138	1	28221
+GO:0051539	"4 iron, 4 sulfur cluster binding"	1	1138	32	28221
+GO:0051537	"2 iron, 2 sulfur cluster binding"	1	1138	8	28221

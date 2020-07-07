@@ -1,0 +1,3 @@
+codigo		p-value		significado
+GO:0016747	0.04136484	"transferase activity, transferring acyl groups other than amino-acyl groups"
+GO:0016746	0.03373987	"transferase activity, transferring acyl groups"

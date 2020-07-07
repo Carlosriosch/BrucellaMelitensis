@@ -1,0 +1,5 @@
+GO:0016746	"transferase activity, transferring acyl groups"	1	5	77	28221
+GO:0016740	"transferase activity"	1	5	493	28221
+GO:0003824	"catalytic activity"	1	5	1758	28221
+GO:0003674	"molecular_function"	1	5	3552	28221
+GO:0016747	"transferase activity, transferring acyl groups other than amino-acyl groups"	1	5	47	28221

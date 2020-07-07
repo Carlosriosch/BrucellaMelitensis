@@ -1,0 +1,6 @@
+GO:0044464	"cell part"	1	6	863	10194
+GO:0044424	"intracellular part"	1	6	413	10194
+GO:0005623	"cell"	1	6	883	10194
+GO:0005575	"cellular_component"	1	6	1525	10194
+GO:0005622	"intracellular"	1	6	479	10194
+GO:0005737	"cytoplasm"	1	6	359	10194
